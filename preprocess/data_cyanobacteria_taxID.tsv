@@ -1,0 +1,226 @@
+	length	taxID	spname
+5	1-1.2	269084	Synechococcus elongatus PCC 6301
+8	4-5	118323	Oscillatoria acuminata
+10	1.8-2.3	1184	Leptolyngbya boryana
+11	0.8-1	59930	Cyanobium gracile
+12	3.5-4-4-5	113355	Geminocystis herdmanii PCC 6308
+14	1-1.2	1129	Synechococcus
+15	1.3-1.5	195253	Synechococcus sp.
+16	2	270636	Spirulina major
+19	4 - 5	1158	Oscillatoria
+20	1.8 - 2.3	272136	Leptolyngbya sp. PCC 6402
+21	0.8 - 1.3	1173264	Leptolyngbya sp.
+22	4 - 5	402777	Kamptonema formosum
+23	1.8 - 2.3	47251	Leptolyngbya
+24	3 - 3.5	1177	Nostoc
+25	3 - 3.5	1177	Nostoc
+26	4 - 5	1158	Oscillatoria
+27	5 -6	44473	Gloeothece membranacea
+28	4 - 5	272129	Kamptonema sp.
+30	4 - 5	1158	Oscillatoria
+31	1.2 - 1.4	1129	Synechococcus
+32	2.5 - 3	1173032	Chamaesiphon minutus
+33	3.5 - 4	1144	Synechocystis sp. PCC 6701
+34	2.3 - 2.5	1142	Synechocystis
+35	1.8 - 2.3	47251	Leptolyngbya
+36	3 - 3.5	1177	Nostoc
+37	0.8 - 1	1129	Synechococcus
+38	1 - 1.2	1129	Synechococcus
+39	0.8 - 1	1129	Synechococcus
+40	1 - 1.2	1129	Synechococcus
+41	1.2 - 1.4	167375	Cyanobium
+42	4	1142	Synechocystis
+43	6.3	118675	Chroococcidiopsis sp. PCC 6712
+44	0.8 - 1	167375	Cyanobium
+45	1.2 - 1.4	33070	Thermostichus lividus
+46	1.2 - 1.4	32048	Synechococcus sp. PCC 6716
+47	1.2 - 1.4	115741	Synechococcus sp. PCC 6717
+49	3 - 3.5	1177	Nostoc
+51	2 - 2.5	118173	Pseudanabaena sp.
+52	2.3 - 2.5	2174229	Synechocystis sp.
+53	6-7	1142	Synechocystis
+54	2.3 - 2.5	1142	Synechocystis
+55	2.3 - 2.5-6-7	1142	Synechocystis
+56	6	1142	Synechocystis
+57	1.3 - 1.8	47918	Pseudanabaena galeata PCC 6901
+59	2.5 - 3	102126	Pseudanabaena sp. PCC 6903
+60	0.8 - 1	167375	Cyanobium
+61	2.3 - 2.5	1142	Synechocystis
+63	0.8 - 1	167375	Cyanobium
+64	5 - 6	197232	Gloeothece tepidariorum PCC 6909
+65	5 - 6	28070	Gloeothece
+66	3 - 3.5	43988	Cyanothece
+67	0.8 - 1	167375	Cyanobium
+69	0.8	180281	Cyanobium sp.
+70	1.2 - 1.5	32049	Synechococcus sp.
+71	1.8 - 2	1129	Synechococcus
+72	3 - 3.5	267870	Microcystis aeruginosa PCC 7005
+73	9 - 10	102231	Gloeocapsa
+75	0.8 - 1	167375	Cyanobium
+79	1 - 1.5	47251	Leptolyngbya
+80	2 - 2.5	2862350	Baaleninema simplex
+83	5 -6	28070	Gloeothece
+86	7 - 8	179408	Oscillatoria nigro-viridis PCC 7112
+87	3.5 - 4	2886352	Allocoleopsis franciscana
+88	1.5 - 2	47251	Leptolyngbya
+89	5 - 8	1190	Fischerella
+91	1.2 - 1.5	1129	Synechococcus
+92	3 - 3.5	93135	Nostoc sp. PCC 7118
+93	3 - 3.5	1177	Nostoc
+94	3 - 3.5	1177	Nostoc
+95	3 - 3.5	1168	Nostoc sp. PCC 7119
+96	3 - 3.5	103690	Nostoc sp. PCC 7120 = FACHB-418
+99	1 - 1.5	47251	Leptolyngbya
+101	2.3 - 2.5	1142	Synechocystis
+102	1.7 - 2.2	102235	Cyanobacterium stanieri
+103	5	54299	Chroococcidiopsis thermalis
+105	30	102115	Stanieria
+106	30	102115	Stanieria
+107	20	102115	Stanieria
+108	15	102125	Xenococcus sp.
+109	25	52607	Xenococcus
+110	10 - 15	179406	Xenococcus sp. PCC 7307
+112	5 - 6	272131	Nostoc punctiforme
+113	5 - 8	372781	Fischerella muscicola SAG 1427-1 = PCC 73103
+114	7 - 8	128405	Nodularia spumigena PCC 73104
+116	6 - 7	102232	Gloeocapsa sp. PCC 73106
+117	5 - 6	28070	Gloeothece
+118	5 - 6	28070	Gloeothece
+119	1.2 - 1.5	374982	Synechococcus sp. PCC 73109
+120	1.8 - 2.3	102128	Leptolyngbya sp. PCC 73110
+121	5	171393	Myxosarcina sp. PCC 7312
+124	5 - 7	44474	Pleurocapsa
+125	6 - 8	44474	Pleurocapsa
+126	6	44474	Pleurocapsa
+128	6 - 8	44474	Pleurocapsa
+129	5	44474	Pleurocapsa
+130	8 - 10	52605	Myxosarcina
+131	10 - 13	54302	Dermocarpella
+132	4 - 6	118163	Pleurocapsa sp.
+134	1.9 - 2.1	91464	Synechococcus sp.
+136	2 - 3	2732530	Synechocystis sp. PCC 7338
+137	2 - 3	1142	Synechocystis
+138	8 - 9	118562	Arthrospira platensis
+139	1.3 - 1.8	82654	Pseudanabaena sp.
+140	1 - 1.5	102129	Leptolyngbya sp.
+141	1.3 - 1.8	111781	Leptolyngbya sp.
+142	2 - 2.5	1152	Pseudanabaena
+143	1.8 - 2.3	1152	Pseudanabaena
+144	0.8 - 1.3	47251	Leptolyngbya
+147	1.5 - 2	1173025	Geitlerinema sp.
+148	2.5	1152	Pseudanabaena
+149	1.5	29415	Pseudanabaena tenuis PCC 7409
+150	1.8 - 2.3	47251	Leptolyngbya
+151	2.5 - 3	63132	Geitlerinema
+152	4 - 5	1158	Oscillatoria
+154	5 - 8	92938	Fischerella muscicola
+158	4 - 5	65093	Halothece sp.
+159	15 - 16	118322	Lyngbya aestuarii
+160	4.5 - 5	118168	Coleofasciculus chthonoplastes
+161	1 - 1.2	33072	Gloeobacter violaceus
+164	5 - 6	65393	Gloeothece citriformis PCC 7424
+165	3-3.5	395961	Cyanothece sp.
+167	1 - 1.5	47251	Leptolyngbya
+168	3 - 3.5	1173026	Gloeocapsa sp.
+169	2 - 2.5	927668	Pseudanabaena biceps
+170	5 - 6	217162	Chamaesiphon subglobosus
+171	5	2169547	Chroococcidiopsis cubana CCALA 040
+172	5	54298	Chroococcidiopsis
+173	5	54298	Chroococcidiopsis
+174	5	54298	Chroococcidiopsis
+175	5	54298	Chroococcidiopsis
+176	30	111780	Stanieria cyanosphaera PCC 7437
+177	20	102115	Stanieria
+178	5	54298	Chroococcidiopsis
+179	6 - 7	102231	Gloeocapsa
+180	1.8 - 2	1173263	Synechococcus sp.
+182	1.8 - 2.3-4	47251	Leptolyngbya
+184	7 - 8	1158	Oscillatoria
+185	3 - 3.5	927677	Synechocystis sp.
+186	3 - 3.5	1142	Synechocystis
+187	3 - 3.5	102231	Gloeocapsa
+188	3 - 3.5	102231	Gloeocapsa
+189	15 - 16	102117	Oscillatoria sancta
+194	5 - 8	1190	Fischerella
+195	5 - 8	372787	Fischerella thermalis
+196	5 - 8	1190	Fischerella
+197	5 - 8	1190	Fischerella
+201	1.8 - 2.3	47251	Leptolyngbya
+202	5 - 8	1190	Fischerella
+204	3 - 3.5	102231	Gloeocapsa
+222	> 3	1142	Synechocystis
+224	7 - 8	88830	Nodularia sphaerocarpa PCC 7804
+226	3 - 3.5	267872	Microcystis aeruginosa PCC 7806
+230	> 3	1142	Synechocystis
+234	3 - 3.5	374211	Microcystis aeruginosa PCC 7813
+240	3 - 3.5	267867	Microcystis aeruginosa PCC 7820
+242	5 - 6	2546359	Gloeothece verrucosa
+246	> 3	1142	Synechocystis
+262	> 3	1142	Synechocystis
+264	2 - 3	1142	Synechocystis
+277	8 - 10	35823	Arthrospira
+278	8 - 10	35823	Arthrospira
+280	1 - 1.2	1140	Synechococcus elongatus PCC 7942 = FACHB-805
+281	1 - 1.2	1129	Synechococcus
+282	1 - 1.2	1129	Synechococcus
+284	25 - 30	380547	Chroococcus turgidus
+293	5 - 6	105592	Symploca atlantica PCC 8002
+294	8 - 10	147322	Limnospira indica
+295	8 - 10	35823	Arthrospira
+299	> 3	1142	Synechocystis
+303	1 - 1.2	102124	Gloeobacter violaceus PCC 8105
+304	9 - 11	28073	Lyngbya
+317	3 - 4	2512018	Cyanothece sp. PCC 8303
+318	4 - 8	13035	Dactylococcopsis salina PCC 8305
+321	6 - 6.5	217161	Chamaesiphon
+324	3 - 3.5	102231	Gloeocapsa
+327	3	41431	Rippkaea orientalis PCC 8801
+328	3	395962	Rippkaea orientalis
+329	4 - 5	28070	Gloeothece
+330	4 - 5	28070	Gloeothece
+331	2 - 3	1142	Synechocystis
+338	1 - 1.2	167375	Cyanobium
+339	2.3 - 2.6	1142	Synechocystis
+344	2.3 -2.6	1142	Synechocystis
+345	1.9 - 2.4	47251	Leptolyngbya
+346	11 - 12	1158	Oscillatoria
+347	2.3 - 2.6	1142	Synechocystis
+361	> 3	1142	Synechocystis
+362	2 - 3	1142	Synechocystis
+363	1.4 - 6	63132	Geitlerinema
+364	1.7 - 2.1	47251	Leptolyngbya
+365	12 - 13	28073	Lyngbya
+366	3.3 - 3.8	1142	Synechocystis
+367	1.2 - 1.4	167375	Cyanobium
+368	2.7 - 3.1	63132	Geitlerinema
+370	< 2	1129	Synechococcus
+378	3 - 4	43988	Cyanothece
+380	2.1 - 2.5	47251	Leptolyngbya
+381	2.3 - 2.6	1142	Synechocystis
+382	8.5 - 9.5	1158	Oscillatoria
+383	2.1 - 2.5	47251	Leptolyngbya
+384	1.5 - 1.7	1152	Pseudanabaena
+385	0.8 - 1	167375	Cyanobium
+386	1.8 - 2	1152	Pseudanabaena
+387	5.5 - 6.5	1158	Oscillatoria
+388	2.8 - 3.3	1142	Synechocystis
+389	1.2 - 1.4	167375	Cyanobium
+393	1.3 - 1.5	47251	Leptolyngbya
+394	> 3	1142	Synechocystis
+397	22 - 26	70190	Chroococcus
+398	4 - 4.5	1158	Oscillatoria
+399	2.3 - 2.6	1142	Synechocystis
+401	12 - 13	28073	Lyngbya
+402	< 2	1129	Synechococcus
+403	< 2	1129	Synechococcus
+423	> 3	1142	Synechocystis
+431	28 - 32	70190	Chroococcus
+433	8 - 10	35823	Arthrospira
+440	> 3	1142	Synechocystis
+453	5 - 7	110103	Anabaenopsis
+454	5 - 7	110103	Anabaenopsis
+456	> 3	1142	Synechocystis
+457	> 3	1142	Synechocystis
+458	> 3	1142	Synechocystis
+459	8 - 10	35823	Arthrospira
+463	> 3	1142	Synechocystis

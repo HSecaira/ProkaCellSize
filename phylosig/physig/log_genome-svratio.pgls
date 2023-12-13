@@ -1,0 +1,27 @@
+
+Call:
+pgls(formula = log_genome ~ svratio, data = comp, lambda = "ML")
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-2.05173 -0.12742  0.00025  0.13723  2.17109 
+
+Branch length transformations:
+
+kappa  [Fix]  : 1.000
+lambda [ ML]  : 0.999
+   lower bound : 0.000, p = < 2.22e-16
+   upper bound : 1.000, p = 0.23428
+   95.0% CI   : (0.996, NA)
+delta  [Fix]  : 1.000
+
+Coefficients:
+               Estimate  Std. Error  t value  Pr(>|t|)    
+(Intercept) 14.75366065  0.11099383 132.9232 < 2.2e-16 ***
+svratio     -0.00279680  0.00060478  -4.6245 3.843e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.3693 on 5378 degrees of freedom
+Multiple R-squared: 0.003961,	Adjusted R-squared: 0.003776 
+F-statistic: 21.39 on 1 and 5378 DF,  p-value: 3.843e-06 

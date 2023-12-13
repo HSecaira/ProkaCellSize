@@ -1,0 +1,27 @@
+
+Call:
+pgls(formula = log_genome ~ log_surface, data = comp, lambda = "ML")
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2.2000 -0.1381 -0.0001  0.1271  2.6100 
+
+Branch length transformations:
+
+kappa  [Fix]  : 1.000
+lambda [ ML]  : 0.999
+   lower bound : 0.000, p = < 2.22e-16
+   upper bound : 1.000, p = 0.25293
+   95.0% CI   : (0.996, NA)
+delta  [Fix]  : 1.000
+
+Coefficients:
+              Estimate Std. Error  t value  Pr(>|t|)    
+(Intercept) 14.7051450  0.1108301 132.6819 < 2.2e-16 ***
+log_surface  0.0156352  0.0026984   5.7942 7.257e-09 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.369 on 5378 degrees of freedom
+Multiple R-squared: 0.006204,	Adjusted R-squared: 0.006019 
+F-statistic: 33.57 on 1 and 5378 DF,  p-value: 7.257e-09 

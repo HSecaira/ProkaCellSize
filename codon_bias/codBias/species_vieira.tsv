@@ -1,0 +1,260 @@
+	name	ori	ogt	d	sptid	name_alt	taxID_rank
+0	Acidovorax avenae	27627	28	11.0	80867		species
+1	Acaryochloris marina	3125510	25	45.0	155978		species
+2	Actinobacillus pleuropneumoniae	1883252	37	0.75	715		species
+3	Acinetobacter ADP1	3598158	30	0.5	202950	Acinetobacter baylyi ADP1	species
+4	Aeromonas hydrophila	4729112	28	0.35	644		species
+5	Aeropyrum pernix	-1	95	4.0	56636		species
+6	Agrobacterium tumefaciens C58	2841174	26	3.0	358	Agrobacterium tumefaciens	species
+7	Alcanivorax borkumensis	3119635	28	10.0	59754		species
+8	Anaeromyxobacter dehalogenans	1396	30	9.2	161493		species
+9	Anaplasma marginale	1147944	37	21.6	770		species
+10	Anaplasma phagocytophilum	20557	37	7.0	948		species
+11	Anabaena variabilis	1502	20	8.0	264691	Trichormus variabilis	species
+12	Aquifex aeolicus	209842	95	1.8	63363		species
+13	Arthrobacter aurescens	1420	30	2.0	43663	Paenarthrobacter aurescens	species
+14	Arcobacter butzleri	2341023	37	0.66	28197	Aliarcobacter butzleri	species
+15	Archaeoglobus fulgidus	-1	85	4.0	2234		species
+16	Azoarcus sp EbN1	1677877	28	4.3	29544	Azoarcus sp.	species
+17	Bacillus anthracis Ames	1748	37	0.5	1392	Bacillus anthracis	species
+18	Bacillus cereus ATCC 14579	1622	30	0.3	1396	Bacillus cereus	species
+19	Bacteroides fragilis	110151	37	0.63	817		species
+20	Bacillus halodurans	4202339	30	0.6	86665	Halalkalibacterium halodurans	species
+21	Bartonella henselae Houston-1	1930403	37	3.0	38323	Bartonella henselae	species
+22	Bacillus licheniformis ATCC14580	1848	37	0.58	1402	Bacillus licheniformis	species
+23	Bartonella quintana Toulouse	1580795	37	3.0	803	Bartonella quintana	species
+24	Bacillus subtilis 168	1751	37	0.43	1423	Bacillus subtilis	species
+25	Bacteroides thetaiotaomicron VPI5482	4171767	37	1.47	818	Bacteroides thetaiotaomicron	species
+26	Bacillus thuringiensis konkukian 97-27	1750	30	0.42	1428	Bacillus thuringiensis	species
+27	Bdellovibrio bacteriovorus	1417	30	1.4	959		species
+28	Bifidobacterium longum NCC2705	1625766	37	1.51	216816	Bifidobacterium longum	species
+29	Bordetella bronchiseptica RB50	5337389	37	1.42	518	Bordetella bronchiseptica	species
+30	Borrelia burgdorferi	458037	30	4.0	139	Borreliella burgdorferi	species
+31	Borrelia garinii PBi	460244	37	4.0	29519	Borreliella garinii	species
+32	Bordetella pertussis 12822	4084466	37	3.8	520	Bordetella pertussis	species
+33	Brucella abortus biovar1 9-941	2010519	37	2.0	235	Brucella abortus	species
+34	Bradyrhizobium japonicum USDA110	680553	26	20.0	375	Bradyrhizobium japonicum	species
+35	Brucella melitensis 16M	2116944	37	2.0	29459	Brucella melitensis	species
+36	Brucella suis 1330	1993857	37	2.0	29461	Brucella suis	species
+37	Buchnera aphidicola Sg	641022	22	36.0	9	Buchnera aphidicola	species
+38	Buchnera aphidicola Baizongia pistaciae	1	22	36.0	9	Buchnera aphidicola	species
+39	Burkholderia mallei ATCC23344	3006500	37	0.75	13373	Burkholderia mallei	species
+40	Burkholderia pseudomallei K96243	2376	37	1.0	28450	Burkholderia pseudomallei	species
+41	Candidatus Blochmannia floridanus	704749	30	36.0	203907		species
+42	Caulobacter crescentus	4016703	30	1.5	155892	Caulobacter vibrioides	species
+43	Carboxydothermus hydrogenoformans	2399734	68	2.0	129958		species
+44	Campylobacter jejuni	1324	37	1.5	197		species
+45	Caldivirga maquilingensis	-1	83	8.0	76887		species
+46	Candidatus Pelagibacter ubique	335453	-1	30.0	198252		species
+47	Chlamydophila abortus S26/3	1144232	37	24.0	83555	Chlamydia abortus	species
+48	Chloroflexus aurantiacus	5258006	49	6.0	1108		species
+49	Chlamydophila caviae GPIC	1173153	37	24.0	83557	Chlamydia caviae	species
+50	Chlamydia trachomatis M	1072919	37	24.0	813	Chlamydia trachomatis	species
+51	Chlamydia pneumonia A	1	37	24.0	83558	Chlamydia pneumoniae	species
+52	Chlorobium tepidum TLS	1127	30	2.0	1097	Chlorobaculum tepidum	species
+53	Chlamydia trachomatis	719974	37	24.0	813		species
+54	Chromobacterium violaceum ATCC12472	236386	26	0.8	536	Chromobacterium violaceum	species
+55	Clostridium acetobutylicum ATCC824	1808	37	0.58	1488	Clostridium acetobutylicum	species
+56	Clostridium perfringens 13	1784	37	0.2	1502	Clostridium perfringens	species
+57	Clostridium tetani E88	50965	37	0.5	1513	Clostridium tetani	species
+58	Coxiella burnetii RSA 493	1835517	37	8.0	777	Coxiella burnetii	species
+59	Corynebacterium glutamicum	1576	30	1.2	1718		species
+60	Colwellia psychrerythraea	5367414	10	7.14	28229		species
+61	Delftia acidovorans	26889	30	4.62	80866		species
+62	Dehalococcoides ethenogenes 195	1599	35	19.0	61435	Dehalococcoides mccartyi	species
+63	Desulfotalea psychrophila LSv54	709557	7	27.0	84980	Desulfotalea psychrophila	species
+64	Deinococcus radiodurans chromosome1	1183	30	1.5	1299	Deinococcus radiodurans	species
+65	Desulfotomaculum reducens	1691	37	20.0	59610		species
+66	Desulfovibrio vulgaris vulgaris Hildenborough	3570715	32	14.0	881	Desulfovibrio vulgaris	species
+67	Dinoroseobacter shibae	3633375	33	4.08	215813		species
+68	Ehrlichia canis	11395	37	28.0	944		species
+69	Ehrlichia chaffeensis	26939	37	19.0	945		species
+70	Enterococcus faecalis V583	1403	37	0.5	1351	Enterococcus faecalis	species
+71	Enterobacter sakazakii	3960616	37	0.23	28141	Cronobacter sakazakii	species
+72	Erwinia carotovora atroseptica SCRI1043	5063660	28	0.2	554	Pectobacterium carotovorum	species
+73	Escherichia coli MG1655	3923657	37	0.35	562	Escherichia coli	species
+74	Francisella tularensis	1892387	37	3.0	263		species
+75	Fusobacterium nucleatum	641869	37	0.72	851		species
+76	Geobacter sulfurreducens PCA	1368	30	6.0	35554	Geobacter sulfurreducens	species
+77	Gluconobacter oxydans 621H	1139728	28	0.94	442	Gluconobacter oxydans	species
+78	Gloeobacter violaceus	3438638	-1	72.0	33072		species
+79	Gramella forsetii	3458688	-1	4.17	411153		species
+80	Haemophilus ducreyi 35000HP	1698708	36	1.8	730	[Haemophilus] ducreyi	species
+81	Haemophilus influenzae	603005	36	0.5	727		species
+82	Haloarcula marismortui	-1	50	12.0	2238		species
+83	Halobacterium sp. Strain NRC-1	-1	37	9.0	2243	Halobacterium sp.	species
+84	Haloquadratum walsbyi	-1	37	24.0	293091		species
+85	Herpetosiphon aurantiacus	6345664	30	20.0	65		species
+86	Helicobacter hepaticus ATCC51449	1081990	37	4.2	32025	Helicobacter hepaticus	species
+87	Helicobacter pylori	1608998	37	2.4	210		species
+88	Hyperthermus butylicus	-1	99	2.0	54248		species
+89	Ignicoccus hospitalis	-1	90	0.83	160233		species
+90	Lactobacillus acidophilus NCFM	1993119	45	1.8	1579	Lactobacillus acidophilus	species
+91	Lactobacillus johnsonii NCC533	1992003	30	0.9	33959	Lactobacillus johnsonii	species
+92	Lactococcus lactis IL1403	1726	40	0.7	1358	Lactococcus lactis	species
+93	Lactobacillus plantarum WCFS1	1369	30	1.6	1590	Lactiplantibacillus plantarum	species
+94	Leptospira interrogans serovar lai 56601 chr1	1566	29	9.0	173	Leptospira interrogans	species
+95	Legionella pneumophila pneumophila Philadelphia 1	3397647	37	3.3	446	Legionella pneumophila	species
+96	Leifsonia xyli xyli CTCB07	1647	23	5.0	1575	Leifsonia xyli	species
+97	Listeria innocua Clip11262	1675	22	0.6	1642	Listeria innocua	species
+98	Listeria monocytogenes strain EGD	1674	23	1.0	1639	Listeria monocytogenes	species
+99	Mannheimia succiniciproducens MBEL55E	2281135	37	0.6	157673	[Mannheimia] succiniciproducens	species
+100	Methanosarcina barkeri	-1	37	12.0	2208		species
+101	Methanococcoides burtonii	-1	32	20.0	29291		species
+102	Methylococcus capsulatus	3302726	37	1.87	414		species
+103	Methylobacterium extorquens	5470388	28	4.2	408	Methylorubrum extorquens	species
+104	Methylobacillus flagellatus	1459	36	2.0	405		species
+105	Methanococcus jannaschii	-1	83	0.5	2190	Methanocaldococcus jannaschii	species
+106	Methanopyrus kandleri	-1	98	0.83	2320		species
+107	Mesorhizobium loti	4478943	26	2.4	381		species
+108	Methanobacterium thermoautotrophicum	-1	65	1.0	145262	"Methanothermobacter thermautotrophicus str. Delta H
+Methanothermobacter thermautotrophicus str. Winter
+Methanothermobacter marburgensis str. Marburg"	species
+109	Moorella thermoacetica	228	58	5.0	1525		species
+110	Mycobacterium avium paratuberculosis k10	1531	37	10.0	1764	Mycobacterium avium	species
+111	Mycobacterium bovis bovis AF2122/97	1525	37	23.0	1765	Mycobacterium tuberculosis variant bovis	biotype
+112	Mycoplasma capricolum	1009729	37	2.5	2095		species
+113	Mycoplasma gallisepticum R	2682	37	1.0	2096	Mycoplasma gallisepticum	species
+114	Mycoplasma genitalium	578582	37	12.0	2097		species
+115	Mycoplasma hyopneumoniae 232	513000	37	2.0	2099	"Mycoplasma hyopneumoniae 168-L
+Mycoplasma hyopneumoniae 168
+Mycoplasma hyopneumoniae 7422
+Mycoplasma hyopneumoniae 232
+Mycoplasma hyopneumoniae 7448
+Mycoplasma hyopneumoniae J"	species
+116	Mycobacterium leprae	1567	37	240.0	1769		species
+117	Mycoplasma mobile 163K	1	20	10.0	2118	Mesomycoplasma mobile	species
+118	Mycoplasma mycoides mycoides SC	1211535	45	2.2	2102	Mycoplasma mycoides	species
+119	Mycoplasma pneumoniae	816339	37	6.0	2104		species
+120	Mycoplasma pulmonis UAB CTIP	1	37	1.5	2107	Mycoplasmopsis pulmonis UAB CTIP	species
+121	Mycobacterium tuberculosis	1525	37	19.0	1773		species
+122	Myxococcus xanthus	9139603	30	5.0	34		species
+123	Nanoarchaeum equitans	-1	90	0.75	160232		species
+124	Neisseria gonorrhoeae FA1090	1917745	36	0.58	485	Neisseria gonorrhoeae	species
+125	Neisseria meningitidis A	219873	37	0.72	487	Neisseria meningitidis	species
+126	Nitrosomonas europaea ATCC19718	1591	27	18.5	915	Nitrosomonas europaea	species
+127	Nitrobacter winogradskyi	114297	28	8.0	913		species
+128	Nocardia farcinica	1990	37	3.0	37329		species
+129	Nostoc sp. PCC 7120	2404398	-1	12.0	1180	Nostoc sp.	species
+130	Oenococcus oeni	1780070	24	10.5	1247		species
+131	Paracoccus denitrificans	2851745	30	2.1	266		species
+132	Pasteurella multocida PM70	1677118	37	1.0	747	Pasteurella multocida	species
+133	Parachlamydia sp UWE25	1	-1	48.0	2052048	Parachlamydia sp.	species
+134	Petrotoga mobilis	1423266	55	12.0	69499		species
+135	Photorhabdus luminescens laumondii TTO1	44490	28	0.5	29488	Photorhabdus luminescens	species
+136	Photobacterium profundum SS9	4085022	10	2.5	74109	Photobacterium profundum	species
+137	Pirellula sp	5455000	28	10.0	117	Pirellula sp.	species
+138	Picrophilus torridus DSM 9790	-1	60	6.0	82076	Picrophilus torridus	species
+139	Porphyromonas gingivalis W83	2342805	37	2.7	837	Porphyromonas gingivalis	species
+140	Propionibacterium acnes KPA171202	1748	31	5.1	1747	Cutibacterium acnes	species
+141	Prochlorococcus marinus marinus CCMP1375	1750905	-1	17.0	1219	Prochlorococcus marinus	species
+142	Pseudomonas aeruginosa PA01	6264361	37	0.5	287	Pseudomonas aeruginosa	species
+143	Pseudoalteromonas haloplanktis	3208603	26	0.5	228		species
+144	Psychromonas ingrahamii	4558259	12	12.0	357794		species
+145	Pseudomonas putida KT2440	8947	27	1.1	303	Pseudomonas putida	species
+146	Pseudomonas syringae tomato DC3000	6396882	27	1.47	317	Pseudomonas syringae	species
+147	Pyrococcus abyssi	-1	96	0.62	29292		species
+148	Pyrobaculum aerophilum	-1	100	3.0	13773		species
+149	Pyrobaculum arsenaticum	-1	95	1.3	121277		species
+150	Pyrococcus furiosus	-1	100	0.62	2261		species
+151	Pyrococcus horikoshii	-1	98	0.62	53953		species
+152	Ralstonia solanacearum GMI1000	3716277	30	4.0	305	Ralstonia solanacearum	species
+153	Rhodoferax ferrireducens	40520	25	8.0	192843		species
+154	Rhodopseudomonas palustris	322962	33	9.0	1076		species
+155	Rhodococcus sp. Strain RHA1	3871702	30	5.3	1831	Rhodococcus sp.	species
+156	Rhodospirillum rubrum	4154190	28	3.8	1085		species
+157	Rhodobacter sphaeroides	3004887	32	3.0	1063	Cereibacter sphaeroides	species
+158	Rickettsia conorii Malish 7	1268361	35	4.1	781	Rickettsia conorii	species
+159	Rickettsia prowazekii	1111140	35	10.0	782		species
+160	Rickettsia typhi wilmington	1111114	35	10.0	785	Rickettsia typhi	species
+161	Rubrobacter xylanophilus	1355	60	3.85	49319		species
+162	Salinibacter ruber	12594	42	14.0	146919		species
+163	Salmonella typhimurium LT2	4083788	37	0.4	90371	Salmonella enterica subsp. enterica serovar Typhimurium	no rank
+164	Shewanella oneidensis MR-1	6419	30	0.66	70863	Shewanella oneidensis	species
+165	Sinorhizobium meliloti 1021	1	28	1.5	382	Sinorhizobium meliloti	species
+166	Silicibacter pomeroyi	4105854	-1	1.65	89184	Ruegeria pomeroyi	species
+167	Sorangium cellulosum	11354923	30	16.0	56		species
+168	Sodalis glossinidius	4127547	25	26.0	63612		species
+169	Sphingopyxis alaskensis	1535	-1	2.39	117207		species
+170	Streptococcus agalactiae 2603VR	1464	37	1.8	1311	Streptococcus agalactiae	species
+171	Staphylococcus aureus strain N315	1879	34	0.4	1280	Staphylococcus aureus	species
+172	Streptomyces coelicolor A3(2)	4269844	30	2.2	1902	Streptomyces coelicolor	species
+173	Staphylococcus epidermidis ATCC 12228	1718	34	0.8	1282	Staphylococcus epidermidis	species
+174	Staphylothermus marinus	-1	87	6.3	2280		species
+175	Streptococcus mutans UA159	1553	37	0.75	1309	Streptococcus mutans	species
+176	Streptococcus pneumoniae TIGR4	1559	37	0.5	1313	Streptococcus pneumoniae	species
+177	Streptococcus pyogenes M1	1588	37	0.4	1314	Streptococcus pyogenes	species
+178	Streptococcus thermophilus LMG18311	1551	37	0.43	1308	Streptococcus thermophilus	species
+179	Sulfolobus acidocaldarius	-1	70	5.67	2285		species
+180	Sulfolobus solfataricus	-1	87	6.0	2287	Saccharolobus solfataricus	species
+181	Sulfolobus tokodaii	-1	80	6.0	111955	Sulfurisphaera tokodaii	species
+182	Syntrophus aciditrophicus	1529	35	24.0	316277		species
+183	Synechococcus elongatus PCC6301	1620819	32	6.1	32046	Synechococcus elongatus	species
+184	Syntrophobacter fumaroxidans	3503182	37	97.86	119484		species
+185	Synechocystis PCC6803	665000	35	12.0	1148	Synechocystis sp. PCC 6803	species
+186	Symbiobacterium thermophilum	1378	60	4.2	2734		species
+187	Synechococcus sp WH8102	2434168	32	6.0	1131	Synechococcus sp.	species
+188	Thermoplasma acidophilum	-1	59	2.5	2303		species
+189	Thiomicrospira crunogena	2427456	30	1.0	39765	Hydrogenovibrio crunogenus	species
+190	Thermosynechococcus elongatus BP-1	2338968	55	5.4	146786	"Thermosynechococcus elongatus AM1
+Thermosynechococcus elongatus PKUAC-SCTE731
+Thermosynechococcus elongatus PKUAC-SCTE711
+Thermosynechococcus elongatus PKUAC-SCTE642
+Thermosynechococcus elongatus PKUAC-SCTE633
+Thermosynechococcus elongatus PKUAC-SCTE632
+Thermosynechococcus elongatus PKUAC-SCTE624
+Thermosynechococcus elongatus PKUAC-SCTE623
+Thermosynechococcus elongatus PKUAC-SCTE613
+Thermosynechococcus elongatus PKUAC-SCTE611
+Thermosynechococcus elongatus PKUAC-SCTE581
+Thermosynechococcus elongatus PKUAC-SCTE572
+Thermosynechococcus elongatus PKUAC-SCTE543
+Thermosynechococcus elongatus PKUAC-SCTE542
+Thermosynechococcus elongatus PKUAC-SCTE535
+Thermosynechococcus elongatus PKUAC-SCTE534
+Thermosynechococcus elongatus PKUAC-SCTE525
+Thermosynechococcus elongatus PKUAC-SCTE514
+Thermosynechococcus elongatus PKUAC-SCTE513
+Thermosynechococcus elongatus PKUAC-SCTE211"	species
+191	Thermotoga maritima	156961	80	1.2	2336		species
+192	Thermoanaerobacter tengcongensis	1697	75	1.1	119072	Caldanaerobacter subterraneus subsp. tengcongensis	subspecies
+193	Thermus thermophilus HB27	1524341	75	2.5	274	Thermus thermophilus	species
+194	Thermoplasma volcanium	-1	60	2.5	50339		species
+195	Treponema denticola ATCC35405	265084	37	5.0	158	Treponema denticola	species
+196	Trichodesmium erythraeum	2409	28	25.0	1206		species
+197	Treponema pallidum	1399	37	33.0	160		species
+198	Tropheryma whipplei Twist	1438	37	28.0	2039	Tropheryma whipplei	species
+199	Ureaplasma urealyticum	42000	37	0.9	2130		species
+200	Vibrio cholerae	2961047	37	0.2	666		species
+201	Vibrio fischeri ES114	2906069	30	0.3	668	Aliivibrio fischeri	species
+202	Vibrio parahaemolyticus	3288455	25	0.2	670		species
+203	Vibrio vulnificus CMCP6 chr1	1012335	25	0.16	672	Vibrio vulnificus	species
+204	Wigglesworthia glossinidia brevipalpis	697376	-1	36.0	51229	Wigglesworthia glossinidia	species
+205	Wolbachia endosymbiont TRS Brugia malayi	1079740	-1	14.0	80849	"Wolbachia endosymbiont of Culex torrentium
+Wolbachia endosymbiont of Pleistodontes sp.
+Wolbachia endosymbiont of Ceratosolen sp.
+Wolbachia endosymbiont of Coquillettidia ochracea
+Wolbachia endosymbiont of Erebia pronoe
+Wolbachia endosymbiont of Aporia crataegi
+Wolbachia endosymbiont of Spodoptera frugiperda
+Wolbachia endosymbiont of Scaptodrosophila claytoni
+Wolbachia endosymbiont of Tamarixia radiata
+Wolbachia endosymbiont of Bactericera albiventris
+Wolbachia endosymbiont of Telmapsylla minuta
+Wolbachia endosymbiont of Prumna litoralis
+Wolbachia endosymbiont of Stauroderus scalaris
+Wolbachia endosymbiont of Pseudochorthippus parallelus
+Wolbachia endosymbiont of Pseudochorthippus montanus
+Wolbachia endosymbiont of Prumna ussuriensis
+Wolbachia endosymbiont of Prumna primnoa
+Wolbachia endosymbiont of Podismopsis genicularis
+Wolbachia endosymbiont of Podismopsis altaica
+Wolbachia endosymbiont of Podisma pedestris"	species
+206	Wolinella succinogenes	2110228	37	1.0	844		species
+207	Xanthomonas axonopodis	1371	27	7.0	53413		species
+208	Xanthomonas campestris	1371	37	3.0	339		species
+209	Xanthomonas oryzae oryzae KACC10331	1374	28	2.0	347	Xanthomonas oryzae	species
+210	Xylella fastidiosa 9a5c	1463	28	5.13	2371	Xylella fastidiosa	species
+211	Yersinia pestis CO92	4653618	37	1.25	632	Yersinia pestis	species
+212	Yersinia pseudotuberculosis	4744561	37	0.5	633		species
+213	Zymomonas mobilis	2055615	27	2.0	542		species

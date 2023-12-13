@@ -1,0 +1,99 @@
+taxid	length	width	volume	surface	shape	species	genus	family	order	class	phylum	superkingdom
+1126	3.24037034920393	3.24037034920393	17.814866446946194	32.98672286269284	sphere/spheroid	Microcystis aeruginosa	Microcystis	Microcystaceae	Chroococcales		Cyanobacteria	Bacteria
+1129	1.309547246573468	1.309547246573468	1.1758776549268883	5.387561195689563	sphere/spheroid		Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Bacteria
+1142	2.9594807281157647	2.9594807281157647	13.57204125170399	27.515721503640265	sphere/spheroid		Synechocystis	Merismopediaceae	Synechococcales		Cyanobacteria	Bacteria
+1144	3.741657386773941	3.741657386773941	27.42778116992432	43.982297150257104	sphere/spheroid	Synechocystis sp. PCC 6701	Geminocystis	Chroococcaceae	Chroococcales		Cyanobacteria	Bacteria
+1148	2.39791576165636	2.39791576165636	7.219388101549009	18.064157758141302	sphere/spheroid	Synechocystis sp. PCC 6803	Synechocystis	Merismopediaceae	Synechococcales		Cyanobacteria	Bacteria
+1152	2.029875044783283	2.029875044783283	4.379318537407468	12.944595428163478	sphere/spheroid		Pseudanabaena	Pseudanabaenaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+1158	5.834878734848457	5.834878734848457	104.01455757907459	106.95806611148997	sphere/spheroid		Oscillatoria	Oscillatoriaceae	Oscillatoriales		Cyanobacteria	Bacteria
+1168	3.24037034920393	3.24037034920393	17.814866446946194	32.98672286269284	sphere/spheroid	Nostoc sp. PCC 7119	Nostoc	Nostocaceae	Nostocales		Cyanobacteria	Bacteria
+1177	3.24037034920393	3.24037034920393	17.814866446946194	32.98672286269282	sphere/spheroid		Nostoc	Nostocaceae	Nostocales		Cyanobacteria	Bacteria
+1184	2.0346989949375804	2.0346989949375804	4.410614836186082	13.006193585861745	sphere/spheroid	Leptolyngbya boryana	Leptolyngbya	Leptolyngbyaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+1190	6.324555320336758	6.324555320336758	132.4611768772814	125.66370614359175	sphere/spheroid		Fischerella	Hapalosiphonaceae	Nostocales		Cyanobacteria	Bacteria
+28070	5.119317722322864	5.119317722322864	70.2481473104073	82.33301911005341	sphere/spheroid		Gloeothece	Aphanothecaceae	Chroococcales		Cyanobacteria	Bacteria
+28073	11.578369326130609	11.578369326130609	812.7197579353561	421.15762680043673	sphere/spheroid		Lyngbya	Oscillatoriaceae	Oscillatoriales		Cyanobacteria	Bacteria
+32046	1.095445115010332	1.095445115010332	0.6882884651454569	3.7699111843077513	sphere/spheroid	Synechococcus elongatus	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Bacteria
+32048	1.296148139681572	1.296148139681572	1.1401514526045566	5.277875658030852	sphere/spheroid	Synechococcus sp. PCC 6716	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Bacteria
+32049	1.3416407864998738	1.3416407864998738	1.2644666515873306	5.6548667764616285	sphere/spheroid	Synechococcus sp. PCC 7002	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Bacteria
+33070	1.296148139681572	1.296148139681572	1.1401514526045566	5.277875658030852	sphere/spheroid	Thermostichus lividus	Thermostichus	Thermostichaceae	Thermostichales		Cyanobacteria	Bacteria
+33072	1.095445115010332	1.095445115010332	0.6882884651454569	3.7699111843077513	sphere/spheroid	Gloeobacter violaceus	Gloeobacter	Gloeobacteraceae	Gloeobacterales	Gloeobacteria	Cyanobacteria	Bacteria
+35823	8.944271909999161	8.944271909999161	374.6567856555056	251.32741228718353	sphere/spheroid		Arthrospira	Microcoleaceae	Oscillatoriales		Cyanobacteria	Bacteria
+43988	3.350368958834508	3.350368958834508	19.691397137447154	35.264290075617	sphere/spheroid		Cyanothece	Cyanothecaceae	Oscillatoriales		Cyanobacteria	Bacteria
+44473	5.47722557505166	5.47722557505166	86.03605814318216	94.24777960769383	sphere/spheroid	Gloeothece membranacea	Gloeothece	Aphanothecaceae	Chroococcales		Cyanobacteria	Bacteria
+44474	6.1105359406431505	6.1105359406431505	119.46385662599114	117.30282690727509	sphere/spheroid		Pleurocapsa	Hyellaceae	Pleurocapsales		Cyanobacteria	Bacteria
+47251	1.743829806924644	1.743829806924644	2.7765846117352044	9.553402289751736	sphere/spheroid		Leptolyngbya	Leptolyngbyaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+52605	8.944271909999161	8.944271909999161	374.6567856555056	251.32741228718353	sphere/spheroid		Myxosarcina	Hyellaceae	Pleurocapsales		Cyanobacteria	Bacteria
+52607	24.999999999999996	24.999999999999996	8181.230868723421	1963.4954084936214	sphere/spheroid		Xenococcus	Xenococcaceae	Pleurocapsales		Cyanobacteria	Bacteria
+54298	4.999999999999999	4.999999999999999	65.44984694978734	78.53981633974483	sphere/spheroid		Chroococcidiopsis	Chroococcidiopsidaceae	Chroococcidiopsidales		Cyanobacteria	Bacteria
+54299	4.999999999999999	4.999999999999999	65.44984694978734	78.53981633974483	sphere/spheroid	Chroococcidiopsis thermalis	Chroococcidiopsis	Chroococcidiopsidaceae	Chroococcidiopsidales		Cyanobacteria	Bacteria
+54302	11.40175425099138	11.40175425099138	776.0927935139324	408.4070449666733	sphere/spheroid		Dermocarpella	Dermocarpellaceae	Pleurocapsales		Cyanobacteria	Bacteria
+59930	0.8944271909999159	0.8944271909999159	0.37465678565550536	2.5132741228718345	sphere/spheroid	Cyanobium gracile	Cyanobium	Prochlorococcaceae	Synechococcales		Cyanobacteria	Bacteria
+63132	2.842350739998026	2.842350739998026	12.023519886661992	25.380794250614557	sphere/spheroid		Geitlerinema	Coleofasciculaceae	Oscillatoriales		Cyanobacteria	Bacteria
+64178	4.743416490252568	4.743416490252568	55.882058995103066	70.68583470577032	sphere/spheroid	Coleofasciculus chthonoplastes	Coleofasciculus	Coleofasciculaceae	Oscillatoriales		Cyanobacteria	Bacteria
+65093	4.4721359549995805	4.4721359549995805	46.83209820693819	62.83185307179587	sphere/spheroid	Halothece sp. PCC 7418	Halothece	Aphanothecaceae	Chroococcales		Cyanobacteria	Bacteria
+70190	26.75629709579237	26.75629709579237	10029.439227658884	2249.0644034378183	sphere/spheroid		Chroococcus	Chroococcaceae	Chroococcales		Cyanobacteria	Bacteria
+70799	7.483314773547884	7.483314773547884	219.4222493593946	175.92918860102844	sphere/spheroid	Nodularia spumigena	Nodularia	Aphanizomenonaceae	Nostocales		Cyanobacteria	Bacteria
+82654	1.5297058540778357	1.5297058540778357	1.8742279425964492	7.351326809400117	sphere/spheroid	Pseudanabaena sp. PCC 7367	Pseudanabaena	Pseudanabaenaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+91464	1.9974984355438181	1.9974984355438181	4.17309206308994	12.534954687823275	sphere/spheroid	Synechococcus sp. PCC 7335	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Bacteria
+92938	6.324555320336758	6.324555320336758	132.4611768772814	125.66370614359175	sphere/spheroid	Fischerella muscicola	Fischerella	Hapalosiphonaceae	Nostocales		Cyanobacteria	Bacteria
+93135	3.24037034920393	3.24037034920393	17.814866446946194	32.98672286269284	sphere/spheroid	Nostoc sp. PCC 7118	Nostoc	Nostocaceae	Nostocales		Cyanobacteria	Bacteria
+102115	24.49489742783178	24.49489742783178	7695.298980971186	1884.9555921538754	sphere/spheroid		Stanieria	Dermocarpellaceae	Pleurocapsales		Cyanobacteria	Bacteria
+102116	30.000000000000004	30.000000000000004	14137.166941154059	2827.4333882308138	sphere/spheroid	Stanieria cyanosphaera	Stanieria	Dermocarpellaceae	Pleurocapsales		Cyanobacteria	Bacteria
+102117	15.491933384829666	15.491933384829666	1946.773764467333	753.9822368615502	sphere/spheroid	Oscillatoria sancta	Oscillatoria	Oscillatoriaceae	Oscillatoriales		Cyanobacteria	Bacteria
+102125	15.0	15.0	1767.1458676442583	706.8583470577033	sphere/spheroid	Xenococcus sp. PCC 7305	Xenococcus	Xenococcaceae	Pleurocapsales		Cyanobacteria	Bacteria
+102126	2.7386127875258306	2.7386127875258306	10.754507267897766	23.561944901923454	sphere/spheroid	Pseudanabaena sp. PCC 6903	Pseudanabaena	Pseudanabaenaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+102128	2.0346989949375804	2.0346989949375804	4.410614836186082	13.006193585861745	sphere/spheroid	Leptolyngbya sp. PCC 73110	Leptolyngbya	Leptolyngbyaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+102129	1.224744871391589	1.224744871391589	0.9619123726213976	4.712388980384689	sphere/spheroid	Leptolyngbya sp. PCC 7375	Leptolyngbya	Leptolyngbyaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+102231	4.350315450259154	4.350315450259154	43.1082974981133	59.455409141254734	sphere/spheroid		Gloeocapsa	Chroococcaceae	Chroococcales		Cyanobacteria	Bacteria
+102232	6.4807406984078595	6.4807406984078595	142.5189315755696	131.94689145077135	sphere/spheroid	Gloeocapsa sp. PCC 73106	Gloeocapsa	Chroococcaceae	Chroococcales		Cyanobacteria	Bacteria
+102235	1.933907960581372	1.933907960581372	3.7870934826479825	11.749556524425827	sphere/spheroid	Cyanobacterium stanieri	Cyanobacterium	Geminocystaceae	Chroococcales		Cyanobacteria	Bacteria
+103690	3.24037034920393	3.24037034920393	17.814866446946194	32.98672286269284	sphere/spheroid	Nostoc sp. PCC 7120 = FACHB-418	Nostoc	Nostocaceae	Nostocales		Cyanobacteria	Bacteria
+110103	5.916079783099617	5.916079783099617	108.41782457704832	109.95574287564277	sphere/spheroid		Anabaenopsis	Aphanizomenonaceae	Nostocales		Cyanobacteria	Bacteria
+111781	1.5297058540778357	1.5297058540778357	1.8742279425964492	7.351326809400117	sphere/spheroid	Leptolyngbya sp. PCC 7376	Leptolyngbya	Leptolyngbyaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+115741	1.296148139681572	1.296148139681572	1.1401514526045566	5.277875658030852	sphere/spheroid	Synechococcus sp. PCC 6717	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Bacteria
+118163	4.898979485566356	4.898979485566356	61.56239184776946	75.39822368615499	sphere/spheroid	Pleurocapsa sp. PCC 7327	Pleurocapsa	Hyellaceae	Pleurocapsales		Cyanobacteria	Bacteria
+118173	2.23606797749979	2.23606797749979	5.854012275867273	15.707963267948964	sphere/spheroid	Pseudanabaena sp. PCC 6802	Pseudanabaena	Pseudanabaenaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+118322	15.491933384829666	15.491933384829666	1946.773764467333	753.9822368615502	sphere/spheroid	Lyngbya aestuarii	Lyngbya	Oscillatoriaceae	Oscillatoriales		Cyanobacteria	Bacteria
+118323	4.4721359549995805	4.4721359549995805	46.83209820693819	62.83185307179587	sphere/spheroid	Oscillatoria acuminata	Oscillatoria	Oscillatoriaceae	Oscillatoriales		Cyanobacteria	Bacteria
+118562	8.48528137423857	8.48528137423857	319.88757154740233	226.19467105846505	sphere/spheroid	Arthrospira platensis	Arthrospira	Microcoleaceae	Oscillatoriales		Cyanobacteria	Bacteria
+118675	6.299999999999999	6.299999999999999	130.92430304202784	124.6898124209789	sphere/spheroid	Chroococcidiopsis sp. PCC 6712	Chroococcidiopsis	Chroococcidiopsidaceae	Chroococcidiopsidales		Cyanobacteria	Bacteria
+137816	7.483314773547884	7.483314773547884	219.4222493593946	175.92918860102844	sphere/spheroid	Nodularia sphaerocarpa	Nodularia	Aphanizomenonaceae	Nostocales		Cyanobacteria	Bacteria
+147322	8.944271909999161	8.944271909999161	374.6567856555056	251.32741228718353	sphere/spheroid	Limnospira indica	Limnospira	Microcoleaceae	Oscillatoriales		Cyanobacteria	Bacteria
+167375	1.0201932615512852	1.0201932615512852	0.5559631082476486	3.2697516982356594	sphere/spheroid		Cyanobium	Prochlorococcaceae	Synechococcales		Cyanobacteria	Bacteria
+171392	4.999999999999999	4.999999999999999	65.44984694978734	78.53981633974483	sphere/spheroid	Chroococcidiopsis cubana	Chroococcidiopsis	Chroococcidiopsidaceae	Chroococcidiopsidales		Cyanobacteria	Bacteria
+171393	4.999999999999999	4.999999999999999	65.44984694978734	78.53981633974483	sphere/spheroid	Myxosarcina sp. PCC 7312	Myxosarcina	Hyellaceae	Pleurocapsales		Cyanobacteria	Bacteria
+179406	12.247448713915894	12.247448713915894	961.9123726213979	471.2388980384688	sphere/spheroid	Xenococcus sp. PCC 7307	Xenococcus	Xenococcaceae	Pleurocapsales		Cyanobacteria	Bacteria
+180281	0.8	0.8	0.26808257310632905	2.010619298297468	sphere/spheroid	Cyanobium sp. PCC 7001	Cyanobium	Prochlorococcaceae	Synechococcales		Cyanobacteria	Bacteria
+195253	1.3964240043768943	1.3964240043768943	1.4257735028702399	6.126105674500098	sphere/spheroid	Synechococcus sp. PCC 6312	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Bacteria
+217161	6.2449979983983965	6.2449979983983965	127.52505891743387	122.52211349000189	sphere/spheroid		Chamaesiphon	Chamaesiphonaceae	Synechococcales		Cyanobacteria	Bacteria
+217162	5.47722557505166	5.47722557505166	86.03605814318216	94.24777960769383	sphere/spheroid	Chamaesiphon subglobosus	Chamaesiphon	Chamaesiphonaceae	Synechococcales		Cyanobacteria	Bacteria
+270636	2.0	2.0	4.188790204786391	12.566370614359172	sphere/spheroid	Spirulina major	Spirulina	Spirulinaceae	Spirulinales		Cyanobacteria	Bacteria
+272129	4.4721359549995805	4.4721359549995805	46.83209820693819	62.83185307179587	sphere/spheroid	Kamptonema sp. PCC 6506	Kamptonema	Microcoleaceae	Oscillatoriales		Cyanobacteria	Bacteria
+272131	5.47722557505166	5.47722557505166	86.03605814318216	94.24777960769383	sphere/spheroid	Nostoc punctiforme	Nostoc	Nostocaceae	Nostocales		Cyanobacteria	Bacteria
+272136	2.0346989949375804	2.0346989949375804	4.410614836186082	13.006193585861745	sphere/spheroid	Leptolyngbya sp. PCC 6402	Leptolyngbya	Leptolyngbyaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+292566	5.656854249492381	5.656854249492381	94.78150268071181	100.53096491487341	sphere/spheroid	Dactylococcopsis salina	Dactylococcopsis	Synechococcaceae	Synechococcales		Cyanobacteria	Bacteria
+293762	5.47722557505166	5.47722557505166	86.03605814318216	94.24777960769383	sphere/spheroid	Symploca atlantica	Symploca	Microcoleaceae	Oscillatoriales		Cyanobacteria	Bacteria
+331992	4.4721359549995805	4.4721359549995805	46.83209820693819	62.83185307179587	sphere/spheroid	Kamptonema formosum	Kamptonema	Microcoleaceae	Oscillatoriales		Cyanobacteria	Bacteria
+372787	6.324555320336758	6.324555320336758	132.4611768772814	125.66370614359175	sphere/spheroid	Fischerella thermalis	Fischerella	Hapalosiphonaceae	Nostocales		Cyanobacteria	Bacteria
+374982	1.3416407864998738	1.3416407864998738	1.2644666515873306	5.6548667764616285	sphere/spheroid	Synechococcus sp. PCC 73109	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Bacteria
+380547	27.386127875258303	27.386127875258303	10754.507267897774	2356.1944901923443	sphere/spheroid	Chroococcus turgidus	Chroococcus	Chroococcaceae	Chroococcales		Cyanobacteria	Bacteria
+395961	3.24037034920393	3.24037034920393	17.814866446946194	32.98672286269284	sphere/spheroid	Cyanothece sp. PCC 7425	Cyanothece	Cyanothecaceae	Oscillatoriales		Cyanobacteria	Bacteria
+482564	7.483314773547884	7.483314773547884	219.4222493593946	175.92918860102844	sphere/spheroid	Oscillatoria nigro-viridis	Oscillatoria	Oscillatoriaceae	Oscillatoriales		Cyanobacteria	Bacteria
+669359	4.090623489235048	4.090623489235048	35.83992942722274	52.56889985823389	sphere/spheroid	Geminocystis herdmanii	Geminocystis	Chroococcaceae	Chroococcales		Cyanobacteria	Bacteria
+927669	2.23606797749979	2.23606797749979	5.854012275867273	15.707963267948964	sphere/spheroid	Pseudanabaena biceps	Pseudanabaena	Pseudanabaenaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+927677	3.24037034920393	3.24037034920393	17.814866446946194	32.98672286269284	sphere/spheroid	Synechocystis sp. PCC 7509	Synechocystis	Merismopediaceae	Synechococcales		Cyanobacteria	Bacteria
+1112103	1.5297058540778357	1.5297058540778357	1.8742279425964492	7.351326809400117	sphere/spheroid	Pseudanabaena galeata	Pseudanabaena	Pseudanabaenaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+1173025	1.7320508075688772	1.7320508075688772	2.7206990463513265	9.424777960769376	sphere/spheroid	Geitlerinema sp. PCC 7407	Geitlerinema	Coleofasciculaceae	Oscillatoriales		Cyanobacteria	Bacteria
+1173026	3.24037034920393	3.24037034920393	17.814866446946194	32.98672286269284	sphere/spheroid	Gloeocapsa sp. PCC 7428	Gloeocapsa	Chroococcaceae	Chroococcales		Cyanobacteria	Bacteria
+1173032	2.7386127875258306	2.7386127875258306	10.754507267897766	23.561944901923454	sphere/spheroid	Chamaesiphon minutus	Chamaesiphon	Chamaesiphonaceae	Synechococcales		Cyanobacteria	Bacteria
+1173263	1.8973665961010275	1.8973665961010275	3.576451775686596	11.309733552923255	sphere/spheroid	Synechococcus sp. PCC 7502	Synechococcus	Synechococcaceae	Synechococcales		Cyanobacteria	Bacteria
+1173264	1.019803902718557	1.019803902718557	0.5553267978063552	3.267256359733385	sphere/spheroid	Leptolyngbya sp. PCC 6406	Leptolyngbya	Leptolyngbyaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+1463538	1.5	1.5	1.7671458676442586	7.0685834705770345	sphere/spheroid	Pseudanabaena tenuis	Pseudanabaena	Pseudanabaenaceae	Pseudanabaenales		Cyanobacteria	Bacteria
+2026365	5.47722557505166	5.47722557505166	86.03605814318216	94.24777960769383	sphere/spheroid	Gloeothece tepidariorum	Gloeothece	Aphanothecaceae	Chroococcales		Cyanobacteria	Bacteria
+2512018	3.464101615137755	3.464101615137755	21.765592370810605	37.69911184307751	sphere/spheroid	Cyanothece sp. PCC 8303	Cyanothece	Cyanothecaceae	Oscillatoriales		Cyanobacteria	Bacteria
+2546356	5.47722557505166	5.47722557505166	86.03605814318216	94.24777960769383	sphere/spheroid	Gloeothece citriformis	Gloeothece	Aphanothecaceae	Chroococcales		Cyanobacteria	Bacteria
+2546359	5.47722557505166	5.47722557505166	86.03605814318216	94.24777960769383	sphere/spheroid	Gloeothece verrucosa	Gloeothece	Aphanothecaceae	Chroococcales		Cyanobacteria	Bacteria
+2546366	3.0000000000000004	3.0000000000000004	14.137166941154067	28.274333882308138	sphere/spheroid	Rippkaea orientalis	Rippkaea	Aphanothecaceae	Chroococcales		Cyanobacteria	Bacteria
+2732530	2.449489742783178	2.449489742783178	7.6952989809711845	18.849555921538755	sphere/spheroid	Synechocystis sp. PCC 7338	Synechocystis	Merismopediaceae	Synechococcales		Cyanobacteria	Bacteria
+2862350	2.23606797749979	2.23606797749979	5.854012275867273	15.707963267948964	sphere/spheroid	Baaleninema simplex	Baaleninema	Microcoleaceae	Oscillatoriales		Cyanobacteria	Bacteria
+2886352	3.741657386773941	3.741657386773941	27.42778116992432	43.982297150257104	sphere/spheroid	Allocoleopsis franciscana	Allocoleopsis	Coleofasciculaceae	Oscillatoriales		Cyanobacteria	Bacteria

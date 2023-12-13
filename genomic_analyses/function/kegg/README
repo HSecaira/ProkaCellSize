@@ -1,0 +1,11 @@
+KEGG Ontology (KO) entries
+======
+
+Mapping of UniRef entries to KOs, derived from the UniRef data release.
+
+Descriptive names of KOs, queried from the KEGG website
+
+The extended usage of this mapping and higher hierarchies, is explained at:
+
+- http://ftp.microbio.me/pub/wol2/function/kegg/
+- http://ftp.microbio.me/pub/wol2/proteins/

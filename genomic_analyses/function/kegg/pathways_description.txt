@@ -1,0 +1,281 @@
+Metabolism
+
+    Global and overview maps
+        ko01110  Biosynthesis of secondary metabolites  2116 genes
+        ko01120  Microbial metabolism in diverse environments   1281 genes
+        ko01200  Carbon metabolism  365 genes
+        ko01210  2-Oxocarboxylic acid metabolism    82 genes
+        ko01212  Fatty acid metabolism  84 genes
+        ko01230  Biosynthesis of amino acids    238 genes
+        ko01232  Nucleotide metabolism  123 genes
+        ko01250  Biosynthesis of nucleotide sugars  211 genes
+        ko01240  Biosynthesis of cofactors  375 genes
+        ko01220  Degradation of aromatic compounds  215 genes
+    Carbohydrate metabolism
+        ko00010  Glycolysis / Gluconeogenesis   106 genes
+        ko00020  Citrate cycle (TCA cycle)  67 genes
+        ko00030  Pentose phosphate pathways 88 genes
+        ko00040  Pentose and glucuronate interconversions   89 genes
+        ko00051  Fructose and mannose metabolism    112 genes
+        ko00052  Galactose metabolism   78 genes
+        ko00053  Ascorbate and aldarate metabolism  62 genes
+        ko00500  Starch and sucrose metabolism  106 genes
+        ko00520  Amino sugar and nucleotide sugar metabolism    156 genes
+        ko00620  Pyruvate metabolism    133 genes
+        ko00630  Glyoxylate and dicarboxylate metabolism    104 genes
+        ko00640  Propanoate metabolism  97 genes
+        ko00650  Butanoate metabolism   114 genes
+        ko00660  C5-Branched dibasic acid metabolism    29 genes
+        ko00562  Inositol phosphate metabolism  76 genes
+    Energy metabolism
+        ko00190  Oxidative phosphorylation  223 genes
+        ko00195  Photosynthesis 63 genes
+        ko00196  Photosynthesis - antenna proteins  42 genes
+        ko00710  Carbon fixation in photosynthetic organisms    36 genes
+        ko00720  Carbon fixation pathways in prokaryotes    117 genes
+        ko00680  Methane metabolism 195 genes
+        ko00910  Nitrogen metabolism    68 genes
+        ko00920  Sulfur metabolism  109 genes
+    Lipid metabolism
+        ko00061  Fatty acid biosynthesis    39 genes
+        ko00062  Fatty acid elongation  24 genes
+        ko00071  Fatty acid degradation 59 genes
+        ko00073  Cutin, suberine and wax biosynthesis   14 genes
+        ko00100  Steroid biosynthesis   34 genes
+        ko00120  Primary bile acid biosynthesis 18 genes
+        ko00121  Secondary bile acid biosynthesis   15 genes
+        ko00140  Steroid hormone biosynthesis   47 genes
+        ko00561  Glycerolipid metabolism    91 genes
+        ko00564  Glycerophospholipid metabolism 115 genes
+        ko00565  Ether lipid metabolism 31 genes
+        ko00600  Sphingolipid metabolism    51 genes
+        ko00590  Arachidonic acid metabolism    51 genes
+        ko00591  Linoleic acid metabolism   25 genes
+        ko00592  alpha-Linolenic acid metabolism    26 genes
+        ko01040  Biosynthesis of unsaturated fatty acids    32 genes
+    Nucleotide metabolism
+        ko00230  Purine metabolism  220 genes
+        ko00240  Pyrimidine metabolism  111 genes
+    Amino acid metabolism
+        ko00250  Alanine, aspartate and glutamate metabolism    70 genes
+        ko00260  Glycine, serine and threonine metabolism   109 genes
+        ko00270  Cysteine and methionine metabolism 125 genes
+        ko00280  Valine, leucine and isoleucine degradation 69 genes
+        ko00290  Valine, leucine and isoleucine biosynthesis    19 genes
+        ko00300  Lysine biosynthesis    48 genes
+        ko00310  Lysine degradation 98 genes
+        ko00220  Arginine biosynthesis  60 genes
+        ko00330  Arginine and proline metabolism    107 genes
+        ko00340  Histidine metabolism   47 genes
+        ko00350  Tyrosine metabolism    84 genes
+        ko00360  Phenylalanine metabolism   74 genes
+        ko00380  Tryptophan metabolism  80 genes
+        ko00400  Phenylalanine, tyrosine and tryptophan biosynthesis    74 genes
+    Metabolism of other amino acids
+        ko00410  beta-Alanine metabolism    46 genes
+        ko00430  Taurine and hypotaurine metabolism 29 genes
+        ko00440  Phosphonate and phosphinate metabolism 44 genes
+        ko00450  Selenocompound metabolism  33 genes
+        ko00460  Cyanoamino acid metabolism 36 genes
+        ko00470  D-Amino acid metabolism    55 genes
+        ko00480  Glutathione metabolism 57 genes
+    Glycan biosynthesis and metabolism
+        ko00510  N-Glycan biosynthesis  48 genes
+        ko00513  Various types of N-glycan biosynthesis 55 genes
+        ko00512  Mucin type O-glycan biosynthesis   15 genes
+        ko00515  Mannose type O-glycan biosynthesis 21 genes
+        ko00514  Other types of O-glycan biosynthesis   31 genes
+        ko00532  Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate    18 genes
+        ko00534  Glycosaminoglycan biosynthesis - heparan sulfate / heparin 22 genes
+        ko00533  Glycosaminoglycan biosynthesis - keratan sulfate   14 genes
+        ko00531  Glycosaminoglycan degradation  15 genes
+        ko00563  Glycosylphosphatidylinositol (GPI)-anchor biosynthesis 27 genes
+        ko00601  Glycosphingolipid biosynthesis - lacto and neolacto series 28 genes
+        ko00603  Glycosphingolipid biosynthesis - globo and isoglobo series 16 genes
+        ko00604  Glycosphingolipid biosynthesis - ganglio series    14 genes
+        ko00511  Other glycan degradation   22 genes
+        ko00540  Lipopolysaccharide biosynthesis    62 genes
+        ko00542  O-Antigen repeat unit biosynthesis 35 genes
+        ko00541  O-Antigen nucleotide sugar biosynthesis    99 genes
+        ko00550  Peptidoglycan biosynthesis 53 genes
+        ko00552  Teichoic acid biosynthesis 41 genes
+        ko00571  Lipoarabinomannan (LAM) biosynthesis   14 genes
+        ko00572  Arabinogalactan biosynthesis - Mycobacterium   12 genes
+        ko00543  Exopolysaccharide biosynthesis 73 genes
+    Metabolism of cofactors and vitamins
+        ko00730  Thiamine metabolism    36 genes
+        ko00740  Riboflavin metabolism  54 genes
+        ko00750  Vitamin B6 metabolism  24 genes
+        ko00760  Nicotinate and nicotinamide metabolism 95 genes
+        ko00770  Pantothenate and CoA biosynthesis  45 genes
+        ko00780  Biotin metabolism  24 genes
+        ko00785  Lipoic acid metabolism 31 genes
+        ko00790  Folate biosynthesis    84 genes
+        ko00670  One carbon pool by folate  42 genes
+        ko00830  Retinol metabolism 50 genes
+        ko00860  Porphyrin metabolism   139 genes
+        ko00130  Ubiquinone and other terpenoid-quinone biosynthesis    59 genes
+    Metabolism of terpenoids and polyketides    
+        ko00900  Terpenoid backbone biosynthesis    63 genes
+        ko00902  Monoterpenoid biosynthesis 42 genes
+        ko00909  Sesquiterpenoid and triterpenoid biosynthesis  76 genes
+        ko00904  Diterpenoid biosynthesis   68 genes
+        ko00906  Carotenoid biosynthesis    58 genes
+        ko00905  Brassinosteroid biosynthesis   12 genes
+        ko00981  Insect hormone biosynthesis    18 genes
+        ko00908  Zeatin biosynthesis    10 genes
+        ko00903  Limonene degradation   9 genes
+        ko00907  Pinene, camphor and geraniol degradation   25 genes
+        ko01052  Type I polyketide structures   127 genes
+        ko00522  Biosynthesis of 12-, 14- and 16-membered macrolides    59 genes
+        ko01051  Biosynthesis of ansamycins 32 genes
+        ko01059  Biosynthesis of enediyne antibiotics   73 genes
+        ko01056  Biosynthesis of type II polyketide backbone    9 genes
+        ko01057  Biosynthesis of type II polyketide products    73 genes
+        ko00253  Tetracycline biosynthesis  17 genes
+        ko00523  Polyketide sugar unit biosynthesis 59 genes
+        ko01054  Nonribosomal peptide structures    51 genes
+        ko01053  Biosynthesis of siderophore group nonribosomal peptides    36 genes
+        ko01055  Biosynthesis of vancomycin group antibiotics   29 genes
+    Biosynthesis of other secondary metabolites
+        ko00940  Phenylpropanoid biosynthesis   32 genes
+        ko00945  Stilbenoid, diarylheptanoid and gingerol biosynthesis  12 genes
+        ko00941  Flavonoid biosynthesis 27 genes
+        ko00944  Flavone and flavonol biosynthesis  15 genes
+        ko00942  Anthocyanin biosynthesis   16 genes
+        ko00943  Isoflavonoid biosynthesis  18 genes
+        ko00946  Degradation of flavonoids  21 genes
+        ko00901  Indole alkaloid biosynthesis   31 genes
+        ko00403  Indole diterpene alkaloid biosynthesis 13 genes
+        ko00950  Isoquinoline alkaloid biosynthesis 63 genes
+        ko00960  Tropane, piperidine and pyridine alkaloid biosynthesis 33 genes
+        ko00996  Biosynthesis of various alkaloids  14 genes
+        ko00232  Caffeine metabolism    16 genes
+        ko00965  Betalain biosynthesis  8 genes
+        ko00966  Glucosinolate biosynthesis 21 genes
+        ko00402  Benzoxazinoid biosynthesis 8 genes
+        ko00311  Penicillin and cephalosporin biosynthesis  16 genes
+        ko00332  Carbapenem biosynthesis    19 genes
+        ko00261  Monobactam biosynthesis    28 genes
+        ko00331  Clavulanic acid biosynthesis   5 genes
+        ko00521  Streptomycin biosynthesis  21 genes
+        ko00524  Neomycin, kanamycin and gentamicin biosynthesis    58 genes
+        ko00525  Acarbose and validamycin biosynthesis  27 genes
+        ko00401  Novobiocin biosynthesis    30 genes
+        ko00404  Staurosporine biosynthesis 40 genes
+        ko00405  Phenazine biosynthesis 16 genes
+        ko00333  Prodigiosin biosynthesis   20 genes
+        ko00254  Aflatoxin biosynthesis 20 genes
+        ko00998  Biosynthesis of various antibiotics    74 genes
+        ko00999  Biosynthesis of various plant secondary metabolites    73 genes
+        ko00997  Biosynthesis of various other secondary metabolites    42 genes
+    Xenobiotics biodegradation and metabolism
+        ko00362  Benzoate degradation   106 genes
+        ko00627  Aminobenzoate degradation  89 genes
+        ko00364  Fluorobenzoate degradation 18 genes
+        ko00625  Chloroalkane and chloroalkene degradation  43 genes
+        ko00361  Chlorocyclohexane and chlorobenzene degradation    41 genes
+        ko00623  Toluene degradation    46 genes
+        ko00622  Xylene degradation 34 genes
+        ko00633  Nitrotoluene degradation   22 genes
+        ko00642  Ethylbenzene degradation   16 genes
+        ko00643  Styrene degradation    25 genes
+        ko00791  Atrazine degradation   16 genes
+        ko00930  Caprolactam degradation    22 genes
+        ko00363  Bisphenol degradation  2 genes
+        ko00621  Dioxin degradation 31 genes
+        ko00626  Naphthalene degradation    29 genes
+        ko00624  Polycyclic aromatic hydrocarbon degradation    43 genes
+        ko00365  Furfural degradation   8 genes
+        ko00984  Steroid degradation    15 genes
+        ko00980  Metabolism of xenobiotics by cytochrome P450   34 genes
+        ko00982  Drug metabolism - cytochrome P450  25 genes
+        ko00983  Drug metabolism - other enzymes    32 genes
+
+Genetic Information Processing
+
+    Transcription
+        ko03020  RNA polymerase 66 genes
+        ko03022  Basal transcription factors    36 genes
+        ko03040  Spliceosome    123 genes
+    Translation
+        ko03010  Ribosome   143 genes
+        ko00970  Aminoacyl-tRNA biosynthesis    66 genes
+        ko03013  Nucleocytoplasmic transport    98 genes
+        ko03015  mRNA surveillance pathway  63 genes
+        ko03008  Ribosome biogenesis in eukaryotes  83 genes
+    Folding, sorting and degradation
+        ko03060  Protein export 39 genes
+        ko04141  Protein processing in endoplasmic reticulum    144 genes
+        ko04130  SNARE interactions in vesicular transport  36 genes
+        ko04120  Ubiquitin mediated proteolysis 133 genes
+        ko04122  Sulfur relay system    29 genes
+        ko03050  Proteasome 49 genes
+        ko03018  RNA degradation    76 genes
+    Replication and repair
+        ko03030  DNA replication    60 genes
+        ko03410  Base excision repair   52 genes
+        ko03420  Nucleotide excision repair 61 genes
+        ko03430  Mismatch repair    44 genes
+        ko03440  Homologous recombination   72 genes
+        ko03450  Non-homologous end-joining 19 genes
+        ko03460  Fanconi anemia pathway 54 genes
+
+Environmental Information Processing
+
+    Membrane transport
+        ko02010  ABC transporters   515 genes
+        ko02060  Phosphotransferase system (PTS)    72 genes
+        ko03070  Bacterial secretion system 74 genes
+    Signal transduction
+        ko02020  Two-component system   499 genes
+        ko04010  MAPK signaling pathway 243 genes
+        ko04012  ErbB signaling pathway 69 genes
+        ko04014  Ras signaling pathway  182 genes
+        ko04015  Rap1 signaling pathway 162 genes
+        ko04310  Wnt signaling pathway  126 genes
+        ko04330  Notch signaling pathway    36 genes
+        ko04340  Hedgehog signaling pathway 45 genes
+        ko04341  Hedgehog signaling pathway - fly   26 genes
+        ko04350  TGF-beta signaling pathway 96 genes
+        ko04390  Hippo signaling pathway    115 genes
+        ko04391  Hippo signaling pathway - fly  53 genes
+        ko04392  Hippo signaling pathway - multiple species 25 genes
+        ko04370  VEGF signaling pathway 39 genes
+        ko04371  Apelin signaling pathway   105 genes
+        ko04630  JAK-STAT signaling pathway 143 genes
+        ko04064  NF-kappa B signaling pathway   97 genes
+        ko04668  TNF signaling pathway  94 genes
+        ko04066  HIF-1 signaling pathway    76 genes
+        ko04068  FoxO signaling pathway 102 genes
+        ko04020  Calcium signaling pathway  198 genes
+        ko04070  Phosphatidylinositol signaling system  55 genes
+        ko04072  Phospholipase D signaling pathway  108 genes
+        ko04071  Sphingolipid signaling pathway 83 genes
+        ko04024  cAMP signaling pathway 172 genes
+        ko04022  cGMP-PKG signaling pathway 121 genes
+        ko04151  PI3K-Akt signaling pathway 268 genes
+        ko04152  AMPK signaling pathway 85 genes
+        ko04150  mTOR signaling pathway 117 genes
+        ko04075  Plant hormone signal transduction  45 genes
+    Signaling molecules and interaction
+        ko04080  Neuroactive ligand-receptor interaction    332 genes
+        ko04060  Cytokine-cytokine receptor interaction 274 genes
+        ko04061  Viral protein interaction with cytokine and cytokine receptor  120 genes
+        ko04512  ECM-receptor interaction   66 genes
+        ko04514  Cell adhesion molecules    109 genes
+
+Cellular Processes
+
+    Cellular community - prokaryotes
+        ko02024  Quorum sensing 283 genes
+        ko05111  Biofilm formation - Vibrio cholerae    106 genes
+        ko02025  Biofilm formation - Pseudomonas aeruginosa 90 genes
+        ko02026  Biofilm formation - Escherichia coli   61 genes
+    Cell motility
+        ko02030  Bacterial chemotaxis   26 genes
+        ko02040  Flagellar assembly 55 genes
+        ko04810  Regulation of actin cytoskeleton   172 genes
+    Cell growth and death
+        ko04110  Cell cycle 133 genes
+        ko04112  Cell cycle - Caulobacter   31 genes

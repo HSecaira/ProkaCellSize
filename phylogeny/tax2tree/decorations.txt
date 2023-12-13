@@ -1,0 +1,1856 @@
+N2	k__Archaea
+N3	k__Bacteria
+N17	p__Candidatus Micrarchaeota
+N21	p__Dictyoglomi; c__Dictyoglomia; o__Dictyoglomales; f__Dictyoglomaceae
+N25	p__Candidatus Heimdallarchaeota
+N27	p__Euryarchaeota_3
+N35	g__Dictyoglomus
+N37	p__Thermotogae; c__Thermotogae
+N40	p__Atribacterota
+N43	p__Candidatus Thorarchaeota
+N44	c__Hadesarchaea
+N48	p__Candidatus Altiarchaeota
+N49	p__Euryarchaeota_2
+N50	p__Candidatus Thermoplasmatota
+N51	p__Euryarchaeota_1
+N54	p__candidate division WWE3
+N56	p__Candidatus Peregrinibacteria
+N59	p__Caldiserica; c__Caldisericia; o__Caldisericales; f__Caldisericaceae; g__Caldisericum
+N60	p__Coprothermobacterota; c__Coprothermobacteria; o__Coprothermobacterales; f__Coprothermobacteraceae; g__Coprothermobacter
+N65	p__Fusobacteria; c__Fusobacteriia; o__Fusobacteriales
+N68	c__Candidatus Methanofastidiosa
+N69	c__Thermococci; o__Thermococcales; f__Thermococcaceae
+N70	p__Candidatus Bathyarchaeota
+N71	p__Thaumarchaeota
+N72	p__Candidatus Verstraetearchaeota; c__Candidatus Methanomethylia; o__Candidatus Methanomethyliales
+N76	c__Candidatus Poseidoniia
+N77	c__Thermoplasmata
+N86	c__Candidatus Peribacteria
+N89	p__Candidatus Andersenbacteria
+N93	o__Thermotogales
+N95	p__Synergistetes; c__Synergistia; o__Synergistales
+N98	f__Leptotrichiaceae
+N99	f__Fusobacteriaceae
+N100	p__Candidatus Aerophobetes
+N103	g__Thermococcus_2
+N108	f__Candidatus Methanomethyliaceae
+N114	o__Candidatus Poseidoniales
+N117	c__Halobacteria
+N119	c__Methanomicrobia
+N124	p__candidate division CPR3
+N125	p__Candidatus Woykebacteria
+N131	p__Candidatus Berkelbacteria
+N134	p__Candidatus Saccharibacteria
+N139	o__Kosmotogales; f__Kosmotogaceae
+N140	o__Petrotogales; f__Petrotogaceae
+N141	f__Fervidobacteriaceae
+N142	f__Thermotogaceae
+N143	p__Candidatus Bipolaricaulota
+N151	g__Fusobacterium
+N153	p__Spirochaetes; c__Spirochaetia
+N159	g__Pyrococcus
+N163	c__Nitrososphaeria; o__Nitrososphaerales; f__Nitrososphaeraceae
+N164	c__
+N165	g__Candidatus Methanomethylicus
+N167	p__Crenarchaeota
+N169	c__Methanococci; o__Methanococcales
+N170	c__Methanobacteria; o__Methanobacteriales
+N172	o__; f__; g__Aciduliprofundum
+N173	o__Thermoplasmatales
+N176	o__Halobacteriales_2; f__Halobacteriaceae_1
+N179	c__Archaeoglobi; o__Archaeoglobales
+N180	o__Methanomicrobiales
+N201	p__candidate division CPR2
+N206	p__Candidatus Doudnabacteria
+N208	p__Candidatus Moranbacteria
+N211	g__Kosmotoga
+N212	g__Marinitoga
+N213	g__Petrotoga
+N214	g__Thermosipho
+N215	g__Fervidobacterium
+N216	g__Pseudothermotoga
+N217	g__Thermotoga
+N221	f__Synergistaceae
+N223	p__Candidatus Melainabacteria; c__
+N224	p__Cyanobacteria
+N229	g__Streptobacillus
+N232	o__Leptospirales
+N240	g__Thermococcus_1
+N244	g__Candidatus Nitrosocosmicus
+N248	s__Candidatus Methanomethylicus mesodigestum
+N250	c__Thermoprotei
+N251	f__Methanocaldococcaceae_1; g__Methanocaldococcus
+N253	f__Methanobacteriaceae
+N263	f__Archaeoglobaceae
+N266	o__Methanosarcinales_2; f__; g__Candidatus Syntrophoarchaeum
+N273	p__Candidatus Curtissbacteria
+N274	p__Candidatus Daviesbacteria
+N316	c__Gloeobacteria; o__Gloeobacterales; f__Gloeobacteraceae; g__Gloeobacter
+N317	c__
+N320	p__Firmicutes_8; c__Clostridia_8; o__Eubacteriales_7
+N322	g__Leptotrichia
+N323	g__Pseudoleptotrichia
+N328	f__Leptospiraceae
+N329	o__Brachyspirales; f__Brachyspiraceae
+N330	o__Spirochaetales
+N334	s__Thermococcus barophilus
+N337	s__Pyrococcus furiosus
+N345	g__Nitrososphaera
+N348	o__; f__; g__Candidatus Nitrosotenuis
+N351	o__Thermofilales; f__Thermofilaceae
+N355	f__Methanocaldococcaceae_2; g__Methanotorris
+N356	f__Methanococcaceae
+N361	f__Thermoplasmataceae
+N364	o__Methanomassiliicoccales
+N365	g__Halobacterium
+N366	o__Haloferacales
+N367	o__Halobacteriales_1
+N369	g__Archaeoglobus_1
+N371	f__Methanocorpusculaceae
+N374	o__Methanocellales; f__Methanocellaceae; g__Methanocella
+N375	o__Methanosarcinales_1
+N385	p__Candidatus Shapirobacteria
+N414	s__Petrotoga mobilis
+N417	s__Thermotoga neapolitana
+N420	g__Acetomicrobium
+N433	p__Deinococcus-Thermus; c__Deinococci
+N434	p__Actinobacteria
+N435	f__Clostridiales Family XVII. Incertae Sedis
+N437	p__Firmicutes_6; c__Clostridia_6; o__Halanaerobiales
+N440	s__Pseudoleptotrichia goodfellowii
+N441	s__Streptobacillus notomytis
+N443	s__Fusobacterium necrophorum
+N447	f__Borreliaceae
+N449	p__Elusimicrobia
+N453	s__Thermococcus sibiricus
+N467	o__; f__
+N468	o__Nitrosopumilales
+N470	g__Thermofilum
+N471	o__Thermoproteales; f__Thermoproteaceae
+N473	s__Methanocaldococcus villosus
+N477	g__Methanothermobacter
+N478	g__Methanobrevibacter
+N482	f__Ferroplasmaceae
+N487	f__Methanomassiliicoccaceae; g__Methanomassiliicoccus
+N488	f__Candidatus Methanomethylophilaceae
+N491	f__Halorubraceae
+N492	f__Halococcaceae; g__Halococcus
+N494	o__Halobacteriales_3; f__Halobacteriaceae_2
+N495	o__Natrialbales; f__Natrialbaceae
+N499	g__Archaeoglobus_2
+N500	g__Methanocorpusculum
+N501	f__Methanomicrobiaceae_2
+N517	p__Candidatus Levybacteria
+N542	p__Candidatus Kerfeldbacteria
+N553	s__Pseudothermotoga lettingae
+N555	s__Thermotoga maritima
+N558	g__Jonquetella
+N560	g__Thermovirga
+N573	o__Synechococcales_1
+N577	o__Thermales; f__Thermaceae
+N578	o__Deinococcales; f__Deinococcaceae
+N584	f__Halobacteroidaceae
+N585	f__Halanaerobiaceae
+N586	p__Firmicutes_4
+N592	g__Leptonema; s__Leptonema illini
+N593	g__Leptospira
+N595	g__Brachyspira
+N596	g__Borrelia
+N597	g__Borreliella
+N598	f__Sphaerochaetaceae
+N610	s__Thermococcus thioreducens
+N617	g__Candidatus Nitrosopelagicus
+N620	s__Thermofilum adornatum
+N624	o__Sulfolobales
+N626	g__Methanothermococcus
+N627	g__Methanococcus
+N630	g__Methanosphaera
+N631	g__Methanobacterium
+N634	g__Acidiplasma
+N637	g__Thermoplasma
+N641	f__Haloferacaceae
+N646	f__Haloarculaceae_2; g__Natronomonas
+N648	g__Haladaptatus
+N656	f__Methanoregulaceae
+N657	f__Methanomicrobiaceae_1
+N659	f__Methanotrichaceae; g__Methanothrix
+N678	p__Candidatus Gottesmanbacteria
+N682	p__Candidatus Beckwithbacteria
+N699	p__Candidatus Jacksonbacteria
+N708	p__Candidatus Portnoybacteria
+N709	p__Candidatus Terrybacteria
+N732	f__Synechococcaceae_1; g__Synechococcus_1; s__Candidatus Synechococcus spongiarum
+N733	f__Prochlorococcaceae
+N739	g__Deinococcus
+N744	g__Thermaerobacter
+N749	g__Halothermothrix
+N751	c__Clostridia_3
+N752	c__Negativicutes
+N753	p__Firmicutes_2
+N755	s__Fusobacterium nucleatum
+N769	f__Spirochaetaceae
+N770	f__Treponemataceae
+N782	p__Proteobacteria_1
+N791	f__Nitrosopumilaceae
+N793	g__Thermoproteus
+N794	g__Pyrobaculum
+N796	g__Vulcanisaeta
+N797	o__Desulfurococcales_4; f__Desulfurococcaceae_3; g__Ignicoccus
+N799	f__Sulfolobaceae
+N821	f__Haloarculaceae_1
+N824	g__Geoglobus
+N828	g__Methanofollis
+N829	g__Methanoculleus
+N832	s__Methanosaeta harundinacea
+N833	f__Candidatus Methanoperedenaceae; g__Candidatus Methanoperedens
+N834	f__Methanosarcinaceae
+N890	p__Candidatus Spechtbacteria
+N893	p__Candidatus Yanofskybacteria
+N897	s__Jonquetella anthropi
+N899	g__Aminobacterium
+N900	s__Thermovirga lienii
+N911	o__Pseudanabaenales_2; f__Pseudanabaenaceae_1; g__Pseudanabaena
+N913	p__Candidatus Fervidibacteria
+N916	p__Chloroflexi
+N918	g__Thermus
+N923	c__Coriobacteriia
+N928	g__Candidatus Frackibacter
+N929	g__Halanaerobium
+N931	o__Veillonellales; f__Veillonellaceae
+N933	c__Clostridia_9
+N946	s__Borreliella burgdorferi
+N948	g__Sphaerochaeta
+N949	g__Spirochaeta; s__Spirochaeta thermophila
+N952	g__Treponema
+N963	p__Chrysiogenetes; c__Chrysiogenetes; o__Chrysiogenales; f__Chrysiogenaceae
+N964	p__Deferribacteres; c__Deferribacteres; o__Deferribacterales; f__Deferribacteraceae
+N966	p__Proteobacteria_2
+N970	c__Alphaproteobacteria
+N976	g__Nitrosarchaeum
+N977	g__Nitrosopumilus
+N981	g__Caldivirga
+N985	g__Sulfolobus_1
+N986	s__Methanococcus maripaludis
+N992	s__Acidiplasma aeolicum
+N995	g__Haloferax
+N997	g__Halolamina
+N1007	s__Archaeoglobus fulgidus
+N1009	g__Methanoregula
+N1016	g__Methanosarcina
+N1040	p__Candidatus Chisholmbacteria
+N1043	p__Candidatus Collierbacteria
+N1045	p__Candidatus Amesbacteria
+N1046	p__Candidatus Blackburnbacteria
+N1047	p__Candidatus Woesebacteria
+N1050	o__Candidatus Peribacterales
+N1057	p__Candidatus Kuenenbacteria
+N1058	p__Candidatus Veblenbacteria
+N1059	p__Candidatus Komeilibacteria
+N1061	p__Candidatus Falkowbacteria
+N1083	g__Thermanaerovibrio
+N1084	g__Cloacibacillus
+N1088	o__Candidatus Gastranaerophilales
+N1092	g__Prochlorococcus
+N1094	o__Synechococcales_3; f__Synechococcaceae_2; g__Synechococcus_2
+N1097	p__Armatimonadetes; c__Chthonomonadetes; o__Chthonomonadales; f__Chthonomonadaceae; g__Chthonomonas
+N1108	c__Thermoleophilia; o__Solirubrobacterales_1; f__Conexibacteraceae; g__Conexibacter; s__Conexibacter woesei
+N1116	o__Acidaminococcales; f__Acidaminococcaceae
+N1117	o__Selenomonadales
+N1118	o__Thermosediminibacterales
+N1119	c__Clostridia_5; o__Thermoanaerobacterales_1
+N1122	p__Firmicutes_7; c__Bacilli_3; o__Bacillales_5
+N1130	s__Borreliella garinii
+N1142	p__Candidatus Sumerlaeota
+N1143	p__Candidatus Poribacteria
+N1144	p__Candidatus Hydrogenedentes
+N1153	c__Deltaproteobacteria_6; o__Desulfurellales; f__Desulfurellaceae
+N1154	c__Epsilonproteobacteria
+N1158	p__Acidobacteria
+N1159	p__Proteobacteria_4
+N1162	c__Zetaproteobacteria
+N1166	s__Candidatus Nitrosarchaeum limnium
+N1175	o__Desulfurococcales_1; f__Desulfurococcaceae_1
+N1179	s__Sulfolobus acidocaldarius
+N1182	s__Methanobrevibacter smithii
+N1195	g__Halorhabdus
+N1202	g__Methanolacinia
+N1233	p__Candidatus Roizmanbacteria
+N1239	p__Candidatus Pacebacteria
+N1260	p__Candidatus Buchananbacteria
+N1286	p__Candidatus Azambacteria
+N1288	p__Candidatus Sungbacteria
+N1295	s__Prochlorococcus marinus
+N1298	s__Synechococcus elongatus
+N1304	c__Anaerolineae
+N1305	c__Ktedonobacteria
+N1307	g__Calidithermus
+N1308	g__Meiothermus
+N1312	o__Eggerthellales; f__Eggerthellaceae
+N1313	o__Coriobacteriales
+N1320	g__Dialister
+N1321	g__Veillonella
+N1322	g__Megasphaera
+N1324	f__Sporomusaceae
+N1325	f__Selenomonadaceae
+N1326	f__Tepidanaerobacteraceae; g__Tepidanaerobacter
+N1327	f__Thermosediminibacteraceae
+N1328	f__Thermoanaerobacterales Family III. Incertae Sedis; g__Caldicellulosiruptor
+N1331	c__Clostridia_1; o__Eubacteriales_1
+N1333	f__Alicyclobacillaceae
+N1337	s__Borrelia duttonii
+N1339	s__Borrelia hermsii
+N1363	p__Candidatus Cloacimonetes
+N1371	p__Candidatus Calescamantes
+N1372	p__Aquificae; c__Aquificae
+N1373	g__Hippea
+N1374	o__Nautiliales; f__Nautiliaceae
+N1375	o__Campylobacterales
+N1379	p__Candidatus Aminicenantes
+N1380	c__Holophagae; o__Holophagales
+N1382	c__Deltaproteobacteria_4
+N1383	c__Oligoflexia
+N1386	o__Holosporales_2; f__Holosporaceae; g__Holospora
+N1389	c__Acidithiobacillia
+N1400	g__Staphylothermus
+N1404	g__Metallosphaera
+N1405	g__Sulfuracidifex
+N1411	s__Methanobacterium formicicum
+N1412	g__Candidatus Methanomethylophilus
+N1414	g__Halogeometricum
+N1415	g__Haloquadratum
+N1418	g__Halostagnicola
+N1420	s__Methanoculleus bourgensis
+N1422	s__Methanoculleus marisnigri
+N1491	p__Candidatus Magasanikbacteria
+N1492	p__Candidatus Uhrbacteria
+N1500	p__Candidatus Staskawiczbacteria
+N1518	g__Cyanobium
+N1525	o__Synechococcales_5; f__Acaryochloridaceae; g__Acaryochloris
+N1526	o__Pseudanabaenales_3; f__Thermosynechococcaceae
+N1527	o__Pseudanabaenales_4; f__Pseudanabaenaceae_2; g__Limnothrix
+N1532	c__Chloroflexia
+N1535	o__Thermogemmatisporales; f__Thermogemmatisporaceae; g__Thermogemmatispora
+N1536	o__Ktedonobacterales; f__Ktedonobacteraceae; g__Ktedonobacter
+N1544	g__Slackia
+N1546	f__Coriobacteriaceae
+N1547	f__Atopobiaceae
+N1549	o__Solirubrobacterales_2
+N1550	c__Acidimicrobiia; o__Acidimicrobiales
+N1553	o__Thermoanaerobacterales_2; f__Thermoanaerobacteraceae_2; g__Thermacetogenium
+N1554	o__Eubacteriales_9; f__Syntrophomonadaceae
+N1556	o__Eubacteriales_4; f__Peptococcaceae_1
+N1563	g__Acidaminococcus
+N1572	f__Thermoanaerobacteraceae_1
+N1573	c__Clostridia_2; o__Eubacteriales_2; f__Clostridiaceae_1
+N1579	p__Firmicutes_3; c__Bacilli_2; o__Bacillales_2
+N1582	s__Leptospira noguchii
+N1591	g__Alkalispirochaeta
+N1592	s__Treponema primitia
+N1602	p__Planctomycetes
+N1604	p__Chlamydiae; c__Chlamydiia
+N1617	o__Desulfurobacteriales; f__Desulfurobacteriaceae; g__Desulfurobacterium
+N1618	o__Aquificales
+N1621	f__Helicobacteraceae; g__Helicobacter
+N1627	f__Holophagaceae
+N1634	p__Nitrospirae_2; c__Nitrospira_2; o__Nitrospirales_2; f__Nitrospiraceae_2; g__Leptospirillum
+N1639	o__Acidithiobacillales; f__Acidithiobacillaceae
+N1641	c__Gammaproteobacteria
+N1648	o__Desulfurococcales_2; f__Pyrodictiaceae
+N1650	g__Acidianus
+N1651	g__Candidatus Aramenus; s__Candidatus Aramenus sulfurataquae
+N1661	s__Haloquadratum walsbyi
+N1662	g__Halorubrum
+N1663	g__Haloarcula
+N1667	g__Methanolobus
+N1668	g__Methanococcoides
+N1669	g__Methanohalophilus
+N1759	p__Candidatus Ryanbacteria
+N1777	s__Chthonomonas calidirosea
+N1779	o__Herpetosiphonales; f__Herpetosiphonaceae
+N1780	o__Chloroflexales
+N1798	g__Collinsella
+N1800	f__Solirubrobacteraceae
+N1801	f__Patulibacteraceae
+N1802	f__Acidimicrobiaceae_1; g__Ferrimicrobium
+N1804	c__Actinomycetia
+N1808	o__Thermoanaerobacterales_4; f__Thermoanaerobacteraceae_4; g__Moorella
+N1817	g__Phascolarctobacterium
+N1822	g__Megamonas
+N1829	g__Caldanaerobius
+N1833	c__Clostridia_10; o__Eubacteriales_8; f__Eubacteriaceae
+N1835	f__Christensenellaceae
+N1838	f__Lachnospiraceae
+N1843	p__Firmicutes_1; c__Bacilli_1
+N1844	s__Leptospira santarosai
+N1847	s__Leptospira kirschneri
+N1848	s__Leptospira interrogans
+N1862	c__Candidatus Brocadiae; o__Candidatus Brocadiales
+N1864	p__Lentisphaerae
+N1865	p__Verrucomicrobia
+N1867	o__Chlamydiales; f__Chlamydiaceae; g__Chlamydia
+N1871	p__Candidatus Pyropristinus; c__; o__; f__; g__Candidatus Caldipriscus
+N1876	p__Fibrobacteres
+N1883	f__Hydrogenothermaceae
+N1884	f__Aquificaceae
+N1888	f__Campylobacteraceae
+N1896	o__Myxococcales
+N1897	o__Bdellovibrionales; f__Bdellovibrionaceae; g__Bdellovibrio
+N1899	p__Candidatus Tectomicrobia
+N1904	o__Pelagibacterales; f__Pelagibacteraceae; g__Candidatus Pelagibacter
+N1909	g__Acidithiobacillus
+N1919	s__Vulcanisaeta distributa
+N1920	g__Desulfurococcus
+N1922	o__Desulfurococcales_3; f__Desulfurococcaceae_2; g__Aeropyrum
+N1923	o__Acidilobales; f__Acidilobaceae
+N1925	g__Saccharolobus; s__Saccharolobus solfataricus
+N1926	g__Sulfolobus_2; s__Sulfolobus islandicus
+N1940	s__Methanococcoides methylutens
+N1946	s__Methanosarcina mazei
+N2012	p__Candidatus Wildermuthbacteria
+N2014	p__Candidatus Nealsonbacteria
+N2023	p__Candidatus Jorgensenbacteria
+N2032	p__Candidatus Giovannonibacteria
+N2047	g__Thermosynechococcus
+N2050	o__Pseudanabaenales_1
+N2053	c__Thermomicrobia; o__Sphaerobacterales
+N2054	g__Herpetosiphon
+N2055	f__Roseiflexaceae
+N2056	f__Chloroflexaceae
+N2066	g__Eggerthella
+N2067	g__Denitrobacterium
+N2070	g__Enorma
+N2073	g__Atopobium
+N2075	g__Solirubrobacter
+N2077	g__Patulibacter
+N2084	s__Thermacetogenium phaeum
+N2085	g__Syntrophomonas
+N2086	o__Thermoanaerobacterales_3; f__Thermoanaerobacteraceae_3; g__Carboxydothermus
+N2087	o__Eubacteriales_5
+N2088	g__Desulfitibacter
+N2098	s__Phascolarctobacterium succinatutens
+N2100	s__Acidaminococcus fermentans
+N2104	g__Anaerovibrio
+N2109	g__Thermoanaerobacterium
+N2116	c__Tissierellia; o__Tissierellales
+N2117	g__Christensenella
+N2122	f__Oscillospiraceae_1
+N2125	g__Alicyclobacillus
+N2128	p__Firmicutes_9; c__Erysipelotrichia_2; o__Erysipelotrichales_2; f__Turicibacteraceae; g__Turicibacter
+N2130	o__Bacillales_6; f__; g__Exiguobacterium
+N2144	s__Treponema endosymbiont of Eucomonympha sp.
+N2150	c__Phycisphaerae
+N2151	c__Planctomycetia
+N2152	c__Lentisphaeria
+N2154	c__Opitutae
+N2164	p__Candidatus Glassbacteria
+N2165	p__Gemmatimonadetes; c__Gemmatimonadetes; o__Gemmatimonadales
+N2167	c__Fibrobacteria; o__Fibrobacterales; f__Fibrobacteraceae
+N2172	g__Persephonella
+N2173	g__Sulfurihydrogenibium
+N2177	g__Sulfurospirillum
+N2178	g__Campylobacter
+N2183	c__Blastocatellia
+N2191	p__candidate division NC10
+N2197	o__Rickettsiales
+N2202	c__Betaproteobacteria_7; o__Ferrovales; f__Ferrovaceae; g__Ferrovum
+N2211	s__Desulfurococcus mucosus
+N2212	s__Desulfurococcus amylolyticus
+N2213	g__Pyrodictium
+N2214	s__Aeropyrum camini
+N2215	g__Acidilobus
+N2216	s__Metallosphaera sedula
+N2229	g__Natronococcus
+N2230	g__Natrialba
+N2235	s__Methanohalophilus halophilus
+N2237	s__Methanosarcina thermophila
+N2241	s__Methanosarcina siciliae
+N2317	p__Candidatus Wolfebacteria
+N2329	p__Candidatus Nomurabacteria
+N2346	f__Leptolyngbyaceae; g__Phormidesmis
+N2347	o__Oscillatoriales_3; f__Coleofasciculaceae; g__Geitlerinema
+N2351	f__Sphaerobacteraceae
+N2352	g__Roseiflexus
+N2353	g__Chloroflexus
+N2365	s__Denitrobacterium detoxificans
+N2366	g__Adlercreutzia
+N2369	s__Collinsella aerofaciens
+N2371	g__Lancefieldella
+N2386	s__Veillonella parvula
+N2388	g__Pelosinus
+N2394	g__Caldanaerobacter; s__Caldanaerobacter subterraneus
+N2395	g__Thermoanaerobacter
+N2397	g__Candidatus Arthromitus
+N2401	c__Clostridia_4; o__Eubacteriales_3
+N2403	f__Peptoniphilaceae
+N2409	f__Oscillospiraceae_2
+N2418	f__Thermoactinomycetaceae
+N2420	s__Turicibacter sanguinis
+N2425	o__Bacillales_1
+N2427	s__Leptospira weilii
+N2435	s__Treponema socranskii
+N2438	p__Candidatus Omnitrophica
+N2445	o__Opitutales
+N2446	o__Puniceicoccales; f__Puniceicoccaceae; g__Coraliomargarita
+N2447	c__Verrucomicrobiae_2; o__Verrucomicrobiales_2; f__Verrucomicrobia subdivision 3
+N2449	o__Parachlamydiales
+N2451	s__Chlamydia trachomatis
+N2455	p__candidate division WOR-3
+N2463	f__Gemmatimonadaceae
+N2467	p__Candidatus Latescibacteria
+N2468	p__candidate division Zixibacteria
+N2481	f__Arcobacteraceae
+N2496	s__Leptospirillum ferriphilum
+N2499	p__Nitrospirae_1
+N2505	s__Candidatus Pelagibacter ubique
+N2508	f__Anaplasmataceae
+N2509	o__Holosporales_1; f__Candidatus Paracaedibacteraceae
+N2513	s__Acidithiobacillus thiooxidans
+N2518	o__Cardiobacteriales; f__Cardiobacteriaceae
+N2519	o__; f__
+N2546	s__Methanosarcina barkeri
+N2611	p__Candidatus Colwellbacteria
+N2655	s__Atopobium minutum
+N2661	f__Ilumatobacteraceae
+N2662	f__Acidimicrobiaceae_2
+N2665	o__Frankiales; f__Frankiaceae; g__Frankia
+N2679	g__Proteiniclasticum
+N2680	g__Clostridium
+N2681	g__Acetobacterium
+N2683	c__Clostridia_7; o__Eubacteriales_6; f__Eubacteriales Family XIII. Incertae Sedis; g__Eubacterium
+N2685	f__Peptostreptococcaceae
+N2715	p__Tenericutes_1; c__Mollicutes_1
+N2716	p__Tenericutes_2; c__Mollicutes_2
+N2717	p__Firmicutes_5; c__Erysipelotrichia_1
+N2718	s__Exiguobacterium aurantiacum
+N2721	f__Sporolactobacillaceae
+N2723	o__Bacillales_3
+N2729	s__Treponema bryantii
+N2735	o__Gemmatales; f__Gemmataceae
+N2736	o__Isosphaerales; f__Isosphaeraceae
+N2737	o__Planctomycetales; f__Planctomycetaceae
+N2738	o__Pirellulales
+N2741	f__Opitutaceae
+N2745	c__Methylacidiphilae; o__Methylacidiphilales; f__Methylacidiphilaceae
+N2750	s__Chlamydia muridarum
+N2751	s__Chlamydia pecorum
+N2752	s__Chlamydia pneumoniae
+N2753	s__Chlamydia ibidis
+N2762	g__Fibrobacter
+N2767	g__Hydrogenobacter; s__Hydrogenobacter thermophilus
+N2768	g__Thermocrinis
+N2779	g__Arcobacter
+N2780	g__Aliarcobacter
+N2789	f__Nannocystaceae
+N2790	f__Polyangiaceae
+N2791	f__Anaeromyxobacteraceae; g__Anaeromyxobacter
+N2794	s__Bdellovibrio bacteriovorus
+N2797	o__Bacteriovoracales; f__Bacteriovoracaceae
+N2801	p__Candidatus Schekmanbacteria
+N2802	p__Nitrospinae; c__Nitrospinia; o__Nitrospinales
+N2803	c__Nitrospira_1; o__Nitrospirales_1; f__Nitrospiraceae_1
+N2804	c__Thermodesulfovibrionia; o__Thermodesulfovibrionales; f__Thermodesulfovibrionaceae
+N2809	p__Proteobacteria_5; c__Deltaproteobacteria_2; o__Desulfovibrionales
+N2816	f__Candidatus Midichloriaceae
+N2824	s__Acidithiobacillus ferrivorans
+N2828	c__Betaproteobacteria_3; o__Neisseriales
+N2829	c__Betaproteobacteria_2; o__Nitrosomonadales_1
+N2831	c__Betaproteobacteria_1; o__Burkholderiales
+N2835	g__Wohlfahrtiimonas
+N2919	p__Candidatus Liptonbacteria
+N2931	p__Candidatus Vogelbacteria
+N2946	s__Chloroflexus aurantiacus
+N2951	o__Anaerolineales
+N2961	s__Lancefieldella parvula
+N2963	g__Fannyhessea; s__Fannyhessea vaginae
+N2965	s__Ferrimicrobium acidiphilum
+N2968	g__Ilumatobacter
+N2969	g__Acidimicrobium
+N2983	f__Peptococcaceae_3
+N2987	g__Selenomonas_2
+N2991	g__Caloramator
+N2993	s__Proteiniclasticum ruminis
+N2998	f__Clostridiaceae_2
+N3003	f__Tissierellaceae
+N3019	g__Anaerostipes
+N3028	f__Bacillaceae_7; g__Caldalkalibacillus
+N3029	f__Paenibacillaceae
+N3033	o__Acholeplasmatales_2; f__; g__
+N3035	o__Mycoplasmatales; f__Mycoplasmataceae; g__Mycoplasma
+N3036	o__Entomoplasmatales
+N3038	o__Erysipelotrichales_1
+N3040	s__Exiguobacterium enclense
+N3042	g__Sporolactobacillus
+N3045	f__; g__Gemella
+N3046	f__Staphylococcaceae
+N3047	o__Bacillales_4; f__Listeriaceae
+N3048	o__Lactobacillales
+N3055	o__Sedimentisphaerales
+N3069	c__Spartobacteria
+N3070	c__Verrucomicrobiae_1; o__Verrucomicrobiales_1
+N3071	f__Waddliaceae; g__Waddlia; s__Waddlia chondrophila
+N3072	f__Parachlamydiaceae
+N3082	g__Gemmatimonas
+N3086	p__Calditrichaeota; c__Calditrichia; o__Calditrichales; f__Calditrichaceae
+N3087	p__Candidatus Marinimicrobia
+N3108	f__Thiovulaceae
+N3115	c__Acidobacteriia
+N3124	g__Bacteriovorax
+N3131	f__Nitrospinaceae
+N3151	g__Neorickettsia
+N3152	g__Wolbachia
+N3154	g__Candidatus Paracaedibacter
+N3159	o__Rhodospirillales
+N3161	s__Acidithiobacillus ferrooxidans
+N3164	f__Thiobacillaceae; g__Thiobacillus; s__Thiobacillus denitrificans
+N3166	c__Betaproteobacteria_5; o__Rhodocyclales_2
+N3172	g__Cardiobacterium
+N3173	s__Wohlfahrtiimonas chitiniclastica
+N3192	g__Natronorubrum
+N3193	g__Natrinema
+N3269	p__Candidatus Lloydbacteria
+N3270	p__Candidatus Yonathbacteria
+N3278	o__Spirulinales; f__Spirulinaceae
+N3280	o__Oscillatoriales_1
+N3293	c__Dehalococcoidia
+N3297	g__Olsenella_1
+N3307	o__Geodermatophilales
+N3309	o__Nakamurellales; f__Nakamurellaceae; g__Nakamurella
+N3311	o__Jiangellales; f__Jiangellaceae; g__Jiangella
+N3312	o__Propionibacteriales
+N3314	o__Kineosporiales; f__Kineosporiaceae
+N3315	o__Micrococcales_2
+N3316	o__Micrococcales_1
+N3318	s__Syntrophomonas wolfei
+N3319	g__Desulfotomaculum
+N3322	g__Desulfitobacterium
+N3323	g__Desulfosporosinus
+N3336	g__Alkaliphilus
+N3337	f__Eubacteriales Family XII. Incertae Sedis
+N3341	g__Peptoclostridium
+N3345	f__Gottschalkiaceae
+N3346	f__Thermohalobacteraceae
+N3348	g__Peptoniphilus
+N3353	g__Ruminiclostridium
+N3362	g__Epulopiscium
+N3372	s__Alicyclobacillus hesperidum
+N3383	o__; f__; g__Candidatus Izimaplasma
+N3384	o__Acholeplasmatales_1
+N3391	f__Erysipelotrichaceae_1
+N3393	f__Bacillaceae_6
+N3399	g__Brochothrix
+N3400	g__Listeria
+N3408	f__Sedimentisphaeraceae
+N3411	g__Planctopirus
+N3414	f__Pirellulaceae
+N3421	g__Methylacidiphilum
+N3434	s__Chlamydia gallinacea
+N3436	s__Chlamydia psittaci
+N3446	p__Chlorobi; c__Chlorobia; o__Chlorobiales; f__Chlorobiaceae
+N3456	s__Campylobacter coli
+N3458	f__Sulfurovaceae
+N3464	o__Bryobacterales
+N3465	o__Acidobacteriales
+N3487	p__Candidatus Dadabacteria
+N3488	p__Proteobacteria_3; c__Deltaproteobacteria_1
+N3495	f__Rickettsiaceae
+N3499	g__Anaplasma
+N3508	f__Chromobacteriaceae_2
+N3517	f__Sutterellaceae
+N3527	o__; f__; g__Candidatus Thioglobus
+N3528	o__Thiotrichales_2; f__Piscirickettsiaceae_2
+N3538	g__Halobiforma
+N3592	p__Candidatus Harrisonbacteria
+N3616	g__Spirulina
+N3617	o__Synechococcales_4; f__Prochloraceae; g__Prochloron; s__Prochloron didemni
+N3619	f__Oscillatoriaceae_2; g__Oscillatoria
+N3620	f__Microcoleaceae
+N3627	f__; g__
+N3633	o__; f__; g__Dehalogenimonas
+N3634	o__Dehalococcoidales; f__Dehalococcoidaceae; g__Dehalococcoides; s__Dehalococcoides mccartyi
+N3636	s__Lancefieldella rimae
+N3640	g__Parafannyhessea; s__Parafannyhessea umbonata
+N3641	g__Olsenella_2; s__Olsenella uli
+N3651	f__Geodermatophilaceae
+N3654	o__Corynebacteriales
+N3657	o__Streptosporangiales
+N3662	f__Microbacteriaceae
+N3663	o__Micrococcales_4; f__Dermabacteraceae
+N3670	s__Selenomonas artemidis
+N3688	g__Gottschalkia
+N3694	g__Anaerococcus
+N3695	s__Ruminiclostridium cellobioparum
+N3697	g__Pseudobacteroides; s__Pseudobacteroides cellulosolvens
+N3698	g__Acetivibrio
+N3701	g__Butyricicoccus
+N3709	g__Cellulosilyticum
+N3728	g__Aneurinibacillus
+N3729	g__Brevibacillus
+N3739	f__Entomoplasmataceae
+N3740	f__Spiroplasmataceae; g__Spiroplasma
+N3744	g__Erysipelothrix
+N3746	g__Fictibacillus
+N3747	f__Bacillaceae_4
+N3749	f__Bacillaceae_2
+N3755	f__Carnobacteriaceae_1
+N3758	f__Lactobacillaceae
+N3771	f__Rubritaleaceae
+N3772	f__Akkermansiaceae; g__Akkermansia
+N3790	g__Caldithrix
+N3795	p__Ignavibacteriae
+N3799	p__Bacteroidetes_1
+N3803	s__Helicobacter cetorum
+N3807	g__Sulfurovum
+N3808	g__Sulfuricurvum
+N3809	g__Sulfurimonas
+N3815	f__Acidobacteriaceae
+N3816	g__Chondromyces
+N3817	f__Archangiaceae
+N3818	f__Myxococcaceae
+N3824	g__Candidatus Nitromaritima
+N3831	g__Thermodesulfovibrio
+N3838	f__Desulfohalobiaceae
+N3839	f__Desulfonatronaceae; g__Desulfonatronum
+N3840	f__Desulfovibrionaceae
+N3841	p__Thermodesulfobacteria; c__Thermodesulfobacteria; o__Thermodesulfobacteriales
+N3842	p__Proteobacteria_7; c__Deltaproteobacteria_5; o__Desulfobacterales_2
+N3843	p__Proteobacteria_6; c__Deltaproteobacteria_3
+N3846	g__Rickettsia
+N3850	g__Ehrlichia
+N3851	s__Anaplasma phagocytophilum
+N3860	f__Chromobacteriaceae_1
+N3861	f__Neisseriaceae
+N3863	f__Methylophilaceae
+N3869	c__Betaproteobacteria_6; o__Nitrosomonadales_2; f__Sterolibacteriaceae; g__Methyloversatilis
+N3872	g__Sutterella
+N3881	o__Chromatiales_4; f__Halothiobacillaceae; g__Halothiobacillus
+N3888	o__Thiotrichales_1
+N3889	o__Legionellales
+N3961	p__Candidatus Zambryskibacteria
+N3962	p__Candidatus Taylorbacteria
+N3964	s__Phormidesmis priestleyi
+N3972	o__Oscillatoriales_2; f__Oscillatoriaceae_1; g__Moorea
+N3979	s__Chloroflexi bacterium oral taxon 439
+N3980	f__Anaerolineaceae
+N3996	g__Modestobacter
+N3998	o__Glycomycetales; f__Glycomycetaceae
+N3999	o__Micromonosporales; f__Micromonosporaceae
+N4000	o__Pseudonocardiales_2; f__Pseudonocardiaceae_2
+N4004	f__Propionibacteriaceae
+N4006	f__Nocardiopsaceae
+N4011	f__Brevibacteriaceae; g__Brevibacterium
+N4012	f__Micrococcaceae
+N4016	o__Micrococcales_3
+N4019	f__Desulfallaceae
+N4020	f__Peptococcaceae_2
+N4024	g__Mitsuokella
+N4025	g__Selenomonas_1; s__Selenomonas ruminantium
+N4039	g__Peptoanaerobacter
+N4043	g__Caloranaerobacter
+N4046	g__Helcococcus
+N4064	g__Coprococcus
+N4071	g__Oribacterium
+N4072	g__Lachnoclostridium; s__[Clostridium] aminophilum
+N4075	g__Butyrivibrio_2
+N4083	s__Brevibacillus laterosporus
+N4090	s__Acholeplasmatales bacterium DTU067
+N4095	g__Entomoplasma
+N4097	f__Erysipelotrichaceae_2
+N4098	f__Coprobacillaceae
+N4105	f__Bacillaceae_3; g__Alkalihalobacillus
+N4108	f__Bacillaceae_8; g__Schinkia
+N4111	g__Mammaliicoccus
+N4112	g__Staphylococcus
+N4117	g__Carnobacterium
+N4118	f__Carnobacteriaceae_2
+N4128	f__Candidatus Brocadiaceae
+N4136	s__Akkermansia glycaniphila
+N4149	s__Fibrobacter succinogenes
+N4155	c__Ignavibacteria; o__Ignavibacteriales; f__Melioribacteraceae
+N4157	p__Candidatus Kryptonia; c__; o__; f__
+N4160	p__Bacteroidetes_2; c__; o__Bacteroidetes Order II. Incertae sedis; f__Rhodothermaceae
+N4161	p__Balneolaeota; c__Balneolia; o__Balneolales
+N4165	s__Helicobacter pylori
+N4175	g__Myxococcus
+N4185	g__Nitrospira
+N4192	f__Desulfomicrobiaceae
+N4193	g__Desulfonauticus
+N4198	f__Thermodesulfobacteriaceae
+N4201	o__Desulfarculales
+N4205	g__Orientia
+N4206	s__Rickettsia bellii
+N4214	s__Anaplasma marginale
+N4217	o__Sphingomonadales
+N4218	o__Rhodobacterales
+N4224	g__Vitreoscilla
+N4229	f__Gallionellaceae
+N4231	f__Nitrosomonadaceae
+N4232	f__Azonexaceae
+N4236	g__Parasutterella
+N4238	f__Alcaligenaceae
+N4245	o__; f__Candidatus Competibacteraceae
+N4246	o__Chromatiales_1; f__Ectothiorhodospiraceae
+N4250	g__Thiomicrospira
+N4252	f__Piscirickettsiaceae_1; g__Piscirickettsia
+N4253	f__Francisellaceae
+N4256	o__Moraxellales
+N4258	o__Kangiellales; f__Kangiellaceae; g__Kangiella
+N4319	o__Pleurocapsales
+N4323	g__Trichodesmium
+N4330	g__Bellilinea
+N4347	g__Pseudonocardia
+N4349	o__Pseudonocardiales_1; f__Pseudonocardiaceae_1
+N4350	f__Dietziaceae; g__Dietzia
+N4352	f__Segniliparaceae; g__Segniliparus
+N4356	f__Kribbellaceae; g__Kribbella
+N4357	f__Nocardioidaceae
+N4358	g__Nocardiopsis
+N4359	f__Thermomonosporaceae
+N4360	f__Streptosporangiaceae
+N4361	o__Catenulisporales
+N4362	o__Streptomycetales; f__Streptomycetaceae
+N4363	f__Ornithinimicrobiaceae
+N4373	g__Brachybacterium
+N4374	f__Demequinaceae; g__Demequina
+N4376	o__Bifidobacteriales
+N4377	o__Actinomycetales; f__Actinomycetaceae
+N4378	g__Desulfallas
+N4379	g__Desulfofundulus
+N4380	s__Desulfitobacterium hafniense
+N4396	g__Peptostreptococcus
+N4404	s__Ruminiclostridium papyrosolvens
+N4421	g__Anaerocolumna
+N4435	g__Lachnospira
+N4441	g__Thermoactinomyces
+N4446	g__Paenibacillus_2
+N4447	g__Cohnella
+N4451	f__Acholeplasmataceae
+N4456	g__Erysipelatoclostridium_2
+N4463	g__Evansella
+N4465	f__
+N4466	f__Bacillaceae_5
+N4471	f__Planococcaceae
+N4472	f__Bacillaceae_1
+N4473	g__Jeotgalicoccus
+N4474	g__Salinicoccus
+N4484	g__Trichococcus
+N4485	f__Carnobacteriaceae_3
+N4486	f__Aerococcaceae
+N4487	f__Enterococcaceae
+N4488	f__Streptococcaceae
+N4489	g__Loigolactobacillus
+N4503	g__Rubritalea
+N4507	g__Candidatus Protochlamydia
+N4520	g__Chlorobaculum
+N4523	f__Balneolaceae
+N4526	c__Flavobacteriia; o__Flavobacteriales
+N4537	g__Terriglobus
+N4538	g__Granulicella
+N4549	g__Desulfomicrobium
+N4551	g__Desulfonatronovibrio
+N4553	g__Desulfovibrio_1
+N4555	g__Thermodesulfatator
+N4558	f__Desulfobulbaceae; g__Desulfobulbus
+N4559	f__Desulfocapsaceae
+N4560	f__Desulfarculaceae
+N4561	o__Syntrophobacterales_2
+N4562	o__Desulfobacterales_1
+N4565	s__Orientia tsutsugamushi
+N4567	s__Rickettsia canadensis
+N4592	g__Methylobacillus
+N4594	g__Sideroxydans
+N4596	g__Nitrosospira
+N4597	g__Nitrosomonas
+N4598	g__Dechloromonas
+N4599	c__Hydrogenophilalia; o__Hydrogenophilales; f__Hydrogenophilaceae; g__Tepidiphilus
+N4600	c__Betaproteobacteria_4; o__Rhodocyclales_1
+N4608	o__Salinisphaerales; f__Salinisphaeraceae; g__Salinisphaera
+N4609	o__Nevskiales
+N4613	o__Thiotrichales_3; f__Thiotrichaceae_1
+N4620	g__Thiomicrorhabdus
+N4621	g__Hydrogenovibrio
+N4622	s__Piscirickettsia salmonis
+N4623	g__Francisella
+N4624	f__Coxiellaceae
+N4625	f__Legionellaceae
+N4626	f__Moraxellaceae
+N4628	o__Alteromonadales_1
+N4665	p__Candidatus Adlerbacteria
+N4677	g__Kamptonema
+N4678	g__Planktothrix
+N4681	s__Moorea producens
+N4682	o__Chroococcidiopsidales; f__Chroococcidiopsidaceae
+N4683	o__Nostocales
+N4684	g__Leptolinea; s__Leptolinea tardivitalis
+N4697	g__Blastococcus
+N4698	g__Glycomyces
+N4706	f__Lawsonellaceae; g__Lawsonella; s__Lawsonella clevelandensis
+N4707	f__Corynebacteriaceae; g__Corynebacterium
+N4708	f__Mycobacteriaceae
+N4713	g__Aeromicrobium
+N4717	g__Actinomadura
+N4721	g__Serinicoccus
+N4722	f__Intrasporangiaceae_2; g__Arsenicicoccus
+N4723	f__Dermatophilaceae
+N4724	f__Dermacoccaceae
+N4725	f__Intrasporangiaceae_1
+N4729	g__Rothia
+N4730	g__Kocuria
+N4735	f__Ruaniaceae
+N4737	f__Bifidobacteriaceae
+N4760	s__Anaerococcus prevotii
+N4774	g__Lachnoanaerobaculum
+N4780	s__Butyrivibrio crossotus
+N4794	g__Gorillibacterium
+N4804	g__Acholeplasma
+N4811	g__Catenibacterium
+N4813	g__Holdemania
+N4814	g__Solobacterium
+N4817	g__Erysipelatoclostridium_1
+N4819	g__Salipaludibacillus
+N4827	g__Pontibacillus
+N4833	g__Bacillus_2
+N4849	g__Granulicatella
+N4850	g__Aerococcus
+N4854	g__Streptococcus
+N4868	g__Rhodopirellula
+N4893	c__Saprospiria; o__Saprospirales
+N4894	c__Chitinophagia; o__Chitinophagales
+N4895	c__Sphingobacteriia; o__Sphingobacteriales
+N4896	c__Cytophagia; o__Cytophagales
+N4908	g__Acidobacterium
+N4909	s__Terriglobus roseus
+N4914	o__Desulfuromonadales
+N4915	o__Syntrophobacterales_1
+N4926	f__Syntrophobacteraceae
+N4927	f__Syntrophaceae_2; g__Desulfobacca
+N4940	f__Acetobacteraceae
+N4943	f__Sphingosinicellaceae
+N4954	g__Methylotenera
+N4962	f__Rhodocyclaceae; g__Aromatoleum
+N4963	f__Zoogloeaceae
+N4964	s__Sutterella wadsworthensis
+N4966	g__Candidatus Kinetoplastibacterium
+N4968	f__Oxalobacteraceae
+N4969	f__Burkholderiaceae
+N4970	f__; g__Thiomonas
+N4973	f__Sinobacteraceae
+N4974	o__Xanthomonadales
+N4982	o__Thiotrichales_6; f__Piscirickettsiaceae_4; g__Cycloclasticus
+N4983	o__Methylococcales
+N4985	o__; f__
+N4998	o__Oceanospirillales_2; f__Alcanivoracaceae
+N5000	f__Idiomarinaceae
+N5002	o__Aeromonadales_1; f__Succinivibrionaceae
+N5047	f__Hyellaceae
+N5048	o__Chroococcales_2
+N5067	s__Pseudonocardia autotrophica
+N5068	o__Pseudonocardiales_3; f__Pseudonocardiaceae_3; g__Saccharopolyspora
+N5069	o__Actinopolysporales; f__Actinopolysporaceae; g__Actinopolyspora
+N5074	g__Mycobacteroides
+N5081	g__Marmoricola
+N5082	g__Nocardioides
+N5091	g__Streptomyces
+N5093	g__Dermacoccus
+N5095	g__Intrasporangium
+N5101	g__Nesterenkonia
+N5104	g__Gulosibacter
+N5107	g__Ruania
+N5109	f__Cellulomonadaceae; g__Cellulomonas
+N5115	s__Peptococcaceae bacterium SCADC1_2_3
+N5130	g__Kallipyga
+N5134	g__Oscillibacter
+N5148	g__Hungatella; s__Hungatella hathewayi
+N5149	g__Enterocloster
+N5162	s__Aneurinibacillus migulanus
+N5164	s__Brevibacillus borstelensis
+N5177	g__Candidatus Phytoplasma
+N5180	g__Kandleria; s__Kandleria vitulina
+N5181	g__Sharpea
+N5185	g__Faecalitalea
+N5186	g__Faecalibaculum
+N5189	g__Geomicrobium
+N5190	g__Marinococcus
+N5194	s__Pontibacillus halophilus
+N5197	g__Terribacillus
+N5199	g__Ornithinibacillus
+N5201	g__Bhargavaea; s__Bhargavaea cecembensis
+N5214	s__Listeria innocua
+N5215	s__Listeria monocytogenes
+N5223	s__Aerococcus urinae
+N5227	g__Lactococcus
+N5230	g__Latilactobacillus
+N5234	g__Liquorilactobacillus
+N5235	g__Ligilactobacillus
+N5245	s__Akkermansia muciniphila
+N5256	g__Melioribacter
+N5257	g__Candidatus Kryptobacter; s__Candidatus Kryptobacter tengchongensis
+N5258	g__Candidatus Kryptonium
+N5261	g__Balneola
+N5263	f__Saprospiraceae; g__Saprospira
+N5267	f__Sphingobacteriaceae
+N5268	f__Amoebophilaceae
+N5276	c__Bacteroidia
+N5289	f__Desulfuromonadaceae
+N5290	f__Geobacteraceae
+N5293	g__Desulfovibrio_4; s__Desulfovibrio alaskensis
+N5294	g__Halodesulfovibrio
+N5300	g__Thermodesulfobacterium
+N5309	f__Desulfobacteraceae
+N5318	f__Rhodospirillaceae
+N5321	g__Sandarakinorhabdus
+N5326	o__Parvularculales; f__Parvularculaceae; g__Parvularcula
+N5328	o__Hyphomicrobiales_2
+N5330	g__Chitinilyticum
+N5335	g__Neisseria
+N5344	g__Thauera
+N5351	g__Oxalobacter; s__Oxalobacter formigenes
+N5353	g__Polynucleobacter
+N5357	f__
+N5358	f__Comamonadaceae
+N5361	f__Rhodanobacteraceae
+N5366	g__Beggiatoa
+N5372	o__Chromatiales_3; f__Chromatiaceae_3; g__Nitrosococcus
+N5373	o__Thiotrichales_4; f__Piscirickettsiaceae_3; g__Methylophaga
+N5376	o__Thiotrichales_5; f__Thiotrichaceae_2; g__Achromatium
+N5377	o__Chromatiales_2; f__Chromatiaceae_1
+N5379	g__
+N5394	g__Moraxella_2
+N5396	g__Alcanivorax
+N5399	g__
+N5401	f__Alteromonadaceae_1
+N5430	p__Candidatus Kaiserbacteria
+N5449	f__Geminocystaceae; g__Cyanobacterium
+N5450	f__Chroococcaceae
+N5451	o__Synechococcales_2; f__Merismopediaceae; g__Synechocystis
+N5454	g__Arthrospira; s__Arthrospira platensis
+N5455	g__Limnospira
+N5459	f__Nostocaceae_1; g__Nostoc
+N5481	g__Mycolicibacterium; s__Mycolicibacterium rhodesiae
+N5482	f__Tsukamurellaceae; g__Tsukamurella
+N5501	g__Streptacidiphilus
+N5519	f__Jonesiaceae
+N5520	f__Promicromonosporaceae
+N5523	g__Alloscardovia
+N5527	g__Arcanobacterium
+N5530	g__Mobiluncus
+N5543	g__Clostridioides
+N5559	g__Ruminococcus
+N5569	g__Roseburia
+N5571	g__Pseudobutyrivibrio
+N5581	s__Paenibacillus larvae
+N5590	g__Paenibacillus_1
+N5597	s__Sharpea azabuensis
+N5598	s__Solobacterium moorei
+N5613	g__Salimicrobium
+N5614	g__Halobacillus
+N5615	g__Sediminibacillus
+N5621	g__Sporosarcina
+N5622	g__Planococcus
+N5630	g__Caldibacillus
+N5635	s__Staphylococcus saprophyticus
+N5641	s__Trichococcus flocculiformis
+N5645	g__Facklamia
+N5646	g__Enterococcus_2
+N5648	g__Enterococcus_1
+N5654	s__Latilactobacillus fuchuensis
+N5656	g__Lacticaseibacillus
+N5657	g__Schleiferilactobacillus
+N5658	g__Lapidilactobacillus
+N5664	g__Weissella
+N5666	g__Pediococcus
+N5683	s__Saprospira grandis
+N5687	f__Chitinophagaceae
+N5689	g__Candidatus Cardinium
+N5691	f__Crocinitomicaceae
+N5693	f__Schleiferiaceae
+N5699	o__Bacteroidales_2
+N5712	g__Geobacter
+N5718	g__Desulfovibrio_3; s__Desulfovibrio vulgaris
+N5720	s__Desulfovibrio magneticus
+N5722	g__Desulfohalovibrio
+N5723	g__Maridesulfovibrio
+N5730	g__Desulfatibacillum
+N5742	f__Thalassospiraceae; g__Thalassospira
+N5743	f__Terasakiellaceae
+N5744	g__Magnetospirillum
+N5746	f__Rhodovibrionaceae
+N5747	f__Kiloniellaceae; g__Kiloniella
+N5750	f__Zymomonadaceae; g__Zymomonas; s__Zymomonas mobilis
+N5754	o__Caulobacterales; f__Caulobacteraceae
+N5756	f__Parvibaculaceae
+N5757	o__Hyphomicrobiales_1
+N5759	g__Conchiformibius
+N5760	g__Kingella
+N5764	g__Methylophilus
+N5790	g__Nevskia
+N5794	f__Xanthomonadaceae
+N5806	f__Methylothermaceae
+N5812	g__Candidatus Thiodiazotropha
+N5814	s__Solemya velum gill symbiont
+N5822	g__Rickettsiella
+N5828	g__Legionella_2
+N5831	g__Acinetobacter
+N5833	s__Moraxella osloensis
+N5834	g__Psychrobacter
+N5835	g__Moraxella_1
+N5837	o__Cellvibrionales
+N5839	o__Oceanospirillales_1
+N5840	s__Idiomarinaceae bacterium HL-53
+N5841	g__Pseudidiomarina
+N5842	g__Idiomarina
+N5843	g__Catenovulum
+N5845	f__Colwelliaceae
+N5849	g__Succinivibrio
+N5850	o__Alteromonadales_2
+N5887	g__Geminocystis
+N5888	s__Synechocystis sp. PCC 6803
+N5890	o__Chroococcales_1
+N5892	s__Limnospira indica
+N5894	f__Calotrichaceae; g__Calothrix
+N5895	f__Nostocaceae_2; g__Richelia
+N5896	f__Scytonemataceae
+N5917	g__Mycolicibacter
+N5918	g__Mycobacterium
+N5921	f__Nocardiaceae_2
+N5922	f__Gordoniaceae; g__Gordonia
+N5936	g__Microbispora
+N5937	g__Nonomuraea
+N5940	g__Kitasatospora
+N5944	g__Mobilicoccus
+N5945	g__Luteipulveratus
+N5947	g__Janibacter
+N5948	g__Tetrasphaera
+N5960	g__Scardovia
+N5963	g__Gardnerella; s__Gardnerella vaginalis
+N5964	g__Bifidobacterium
+N5969	s__Mobiluncus curtisii
+N5970	s__Mobiluncus mulieris
+N5971	g__Boudabousia
+N5974	s__Candidatus Arthromitus sp. SFB-mouse
+N5977	s__Clostridium botulinum
+N5982	s__Eubacterium pyruvativorans
+N5984	s__Clostridioides difficile
+N5986	g__Intestinimonas
+N5993	g__Faecalibacterium
+N6005	g__Butyrivibrio_1
+N6028	g__Saccharibacillus
+N6042	s__Faecalibaculum rodentium
+N6045	g__Alteribacillus
+N6048	s__Alkalihalobacillus clausii
+N6054	g__Gracilibacillus
+N6057	g__Lentibacillus
+N6058	g__Oceanobacillus
+N6059	g__Virgibacillus
+N6064	g__Paenisporosarcina
+N6066	g__Lysinibacillus
+N6095	s__Latilactobacillus sakei
+N6110	g__Oenococcus
+N6123	f__Haliscomenobacteraceae
+N6124	f__Lewinellaceae; g__Lewinella
+N6130	g__Crocinitomix
+N6134	f__Flavobacteriaceae
+N6140	o__Bacteroidales_1
+N6156	f__Syntrophaceae_1
+N6157	s__Halodesulfovibrio aestuarii
+N6158	g__Lawsonia
+N6159	g__Desulfovibrio_2
+N6164	s__Thermodesulfobacterium commune
+N6168	s__Desulfatibacillum aliphaticivorans
+N6169	g__Desulfosarcina
+N6173	s__Rickettsia tamurae
+N6176	g__Roseomonas
+N6180	g__Terasakiella
+N6187	f__Thalassobaculaceae; g__Candidatus Endolissoclinum
+N6190	f__Sphingomonadaceae_1
+N6192	f__Rhodobacteraceae
+N6194	o__Maricaulales
+N6195	o__Hyphomonadales; f__Hyphomonadaceae
+N6199	f__Hyphomicrobiaceae
+N6208	s__Nitrosomonas communis
+N6212	g__Taylorella
+N6213	g__Oligella
+N6214	g__Pusillimonas (ex Stolz et al. 2005)
+N6216	g__Massilia
+N6217	g__Janthinobacterium
+N6234	g__Thiothrix
+N6236	g__Thioalkalivibrio
+N6239	s__Methylophaga thiooxydans
+N6242	f__Methylococcaceae
+N6246	g__Sedimenticola
+N6248	s__Candidatus Thiodiazotropha endoloripes
+N6250	s__Hydrogenovibrio marinus
+N6256	s__Rickettsiella grylli
+N6259	g__Coxiella
+N6275	o__Oceanospirillales_3; f__Endozoicomonadaceae
+N6276	o__Pseudomonadales; f__Pseudomonadaceae; g__Pseudomonas
+N6284	g__Thalassotalea
+N6287	f__Pseudoalteromonadaceae
+N6288	g__Ruminobacter
+N6290	s__Succinivibrio dextrinosolvens
+N6291	f__Ferrimonadaceae; g__Ferrimonas
+N6292	f__Shewanellaceae; g__Shewanella
+N6324	f__Aphanothecaceae_1
+N6328	s__Richelia intracellularis
+N6330	g__Scytonema
+N6331	f__Chlorogloeopsidaceae; g__Chlorogloeopsis
+N6332	f__Hapalosiphonaceae; g__Fischerella
+N6336	f__Aphanizomenonaceae
+N6340	g__Micromonospora
+N6342	g__Actinoplanes
+N6343	g__Actinokineospora
+N6344	g__Kutzneria
+N6346	g__Thermocrispum
+N6347	g__Amycolatopsis
+N6351	s__Corynebacterium falsenii
+N6362	g__Williamsia
+N6365	f__Nocardiaceae_1
+N6366	g__Propionibacterium
+N6375	g__Streptosporangium
+N6384	g__Phycicoccus
+N6387	g__Arthrobacter
+N6389	g__Leucobacter
+N6391	g__Jonesia
+N6402	g__Actinotignum
+N6403	g__Actinobaculum
+N6414	s__Clostridium pasteurianum
+N6425	s__Enterocloster citroniae
+N6437	s__Pseudobutyrivibrio ruminis
+N6441	g__Blautia
+N6447	s__Brevibacillus brevis
+N6461	s__Faecalitalea cylindroides
+N6463	g__Salibacterium
+N6474	g__Kurthia
+N6476	g__Ureibacillus
+N6480	g__Priestia
+N6482	g__Bacillus_1
+N6495	s__Enterococcus faecalis
+N6498	s__Streptococcus suis
+N6505	s__Latilactobacillus curvatus
+N6509	s__Schleiferilactobacillus harbinensis
+N6510	g__Bombilactobacillus
+N6511	g__Companilactobacillus
+N6522	g__Leuconostoc
+N6523	s__Oenococcus oeni
+N6528	g__Furfurilactobacillus
+N6530	g__Lactiplantibacillus
+N6533	s__Rhodopirellula europaea
+N6534	s__Rhodopirellula baltica
+N6540	g__Chitinophaga
+N6544	g__Pedobacter_2
+N6546	f__Bernardetiaceae
+N6552	f__Blattabacteriaceae
+N6553	f__Weeksellaceae
+N6561	o__Bacteroidales_3
+N6562	o__Marinilabiliales
+N6569	g__Geoalkalibacter
+N6585	s__Lawsonia intracellularis
+N6607	g__Rhizorhabdus
+N6608	g__Sphingomonas
+N6609	f__Sphingomonadaceae_3; g__Sphingobium
+N6614	f__Roseobacteraceae
+N6615	f__Robiginitomaculaceae
+N6616	f__Maricaulaceae
+N6617	g__Hirschia
+N6620	g__Asticcacaulis
+N6621	g__Brevundimonas
+N6626	g__Chromobacterium
+N6631	s__Nitrosomonas marina
+N6632	s__Nitrosomonas ureae
+N6633	s__Oligella urethralis
+N6640	g__Noviherbaspirillum
+N6642	g__Cupriavidus
+N6643	g__Ralstonia
+N6645	g__Aquabacterium
+N6649	g__Serpentinomonas
+N6650	g__Hydrogenophaga
+N6653	g__Solimonas
+N6655	g__Arenimonas
+N6658	g__Spiribacter
+N6667	g__Thiohalocapsa
+N6674	s__Francisella orientalis
+N6675	s__Francisella tularensis
+N6686	g__Legionella_1
+N6692	s__Moraxella catarrhalis
+N6694	f__Spongiibacteraceae
+N6695	f__Halieaceae
+N6698	g__Endozoicomonas
+N6701	f__Oceanospirillaceae_3; g__Oceanospirillum
+N6708	s__Catenovulum agarivorans
+N6711	s__Thalassotalea crassostreae
+N6714	g__Pseudoalteromonas
+N6720	o__Alteromonadales_3
+N6721	o__Aeromonadales_2; f__Aeromonadaceae
+N6722	o__Vibrionales; f__Vibrionaceae
+N6751	f__Aphanothecaceae_2; g__Gloeothece
+N6752	f__Microcystaceae; g__Microcystis; s__Microcystis aeruginosa
+N6755	s__Chlorogloeopsis fritschii
+N6756	s__Fischerella muscicola
+N6760	g__Anabaena
+N6761	g__Cylindrospermopsis
+N6762	s__Bellilinea caldifistulae
+N6766	g__Salinispora
+N6794	g__Rhodococcus
+N6797	g__Acidipropionibacterium
+N6798	g__Cutibacterium
+N6829	s__Actinotignum schaalii
+N6830	s__Actinobaculum suis
+N6835	g__Winkia; s__Winkia neuii
+N6836	g__Gleimia
+N6839	s__Clostridium magnum
+N6859	g__Mediterraneibacter
+N6873	s__Paenibacillus massiliensis
+N6882	g__Amphibacillus
+N6891	g__Parageobacillus
+N6892	g__Geobacillus; s__Geobacillus subterraneus
+N6904	s__Staphylococcus capitis
+N6905	s__Staphylococcus epidermidis
+N6909	s__Enterococcus asini
+N6910	g__Tetragenococcus
+N6924	s__Lacticaseibacillus thailandensis
+N6925	s__Lacticaseibacillus pantheris
+N6932	g__Lactobacillus
+N6933	s__Liquorilactobacillus sucicola
+N6940	g__Fructobacillus
+N6944	g__Paucilactobacillus
+N6945	g__Limosilactobacillus
+N6959	g__Olivibacter
+N6960	g__Sphingobacterium
+N6964	g__Pedobacter_1
+N6965	f__Flammeovirgaceae
+N6969	g__Fluviicola
+N6971	g__Blattabacterium
+N6982	f__Rikenellaceae
+N6983	f__Odoribacteraceae
+N6984	f__Marinilabiliaceae
+N6987	f__Paludibacteraceae
+N6994	g__Desulfuromonas
+N7005	g__Smithella
+N7008	s__Desulfovibrio desulfuricans
+N7011	g__Pseudodesulfovibrio
+N7021	g__Acidocella
+N7022	g__Acidiphilium
+N7023	g__Commensalibacter
+N7034	f__Sphingomonadaceae_4; g__Sphingopyxis
+N7043	g__Phenylobacterium
+N7044	g__Caulobacter
+N7072	g__Ottowia
+N7074	g__Luteibacter
+N7078	g__Lysobacter
+N7086	g__Methylomonas
+N7087	g__Methylotuvimicrobium
+N7097	s__Coxiella burnetii
+N7112	s__Moraxella nonliquefaciens
+N7120	f__Microbulbiferaceae; g__Microbulbifer
+N7121	f__Cellvibrionaceae
+N7123	s__Endozoicomonas elysicola
+N7127	f__Oceanospirillaceae_2
+N7128	f__Halomonadaceae
+N7129	f__Hahellaceae; g__Hahella
+N7130	f__Marinobacteraceae; g__Marinobacter
+N7132	f__Oceanospirillaceae_1
+N7134	g__Paraglaciecola
+N7136	g__Colwellia
+N7143	f__Alteromonadaceae_2
+N7149	o__Pasteurellales; f__Pasteurellaceae
+N7172	g__Candidatus Atelocyanobacterium; s__Candidatus Atelocyanobacterium thalassa
+N7173	g__Crocosphaera
+N7183	s__Cylindrospermopsis raciborskii
+N7188	g__Saccharothrix
+N7189	g__Lentzea
+N7191	g__Saccharomonospora
+N7199	s__Mycobacterium heraklionense
+N7229	g__Knoellia
+N7230	g__Glutamicibacter
+N7235	g__Microbacterium
+N7246	g__Varibaculum
+N7253	g__Anaerotruncus
+N7257	s__Enterocloster clostridioformis
+N7268	g__Faecalicatena
+N7271	g__Dorea
+N7301	g__Weizmannia
+N7303	g__Jeotgalibacillus
+N7306	g__Peribacillus
+N7327	s__Companilactobacillus versmoldensis
+N7333	s__Ligilactobacillus ruminis
+N7336	s__Weissella halotolerans
+N7337	s__Weissella ceti
+N7347	g__Levilactobacillus
+N7348	g__Secundilactobacillus
+N7349	g__Lentilactobacillus
+N7356	s__Candidatus Kryptonium thompsoni
+N7363	s__Pedobacter glucosidilyticus
+N7365	g__Mucilaginibacter
+N7368	g__Flammeovirga
+N7370	f__Cytophagaceae_2
+N7371	f__Hymenobacteraceae
+N7373	f__Cytophagaceae_1
+N7381	g__Capnocytophaga
+N7390	g__Alistipes
+N7392	g__Odoribacter
+N7393	g__Saccharicrinis
+N7394	g__Anaerophaga
+N7396	g__Paludibacter
+N7397	f__Porphyromonadaceae; g__Porphyromonas; s__Porphyromonas somerae
+N7416	f__Azospirillaceae
+N7431	g__Paracoccus
+N7437	g__Hyphomonas
+N7439	s__Caulobacter vibrioides
+N7440	s__Caulobacter henricii
+N7443	g__Hyphomicrobium
+N7444	f__Methylocystaceae_2; g__Methylopila
+N7446	f__Devosiaceae
+N7451	g__Bordetella
+N7457	s__Ralstonia mannitolilytica
+N7459	g__Rhizobacter
+N7468	g__Luteimonas
+N7470	g__Pseudoxanthomonas; s__Pseudoxanthomonas suwonensis
+N7472	g__Ectothiorhodospira
+N7475	g__Methylobacter
+N7494	g__Legionella_3; s__Legionella longbeachae
+N7495	g__Fluoribacter
+N7506	g__Spongiibacter
+N7515	g__Candidatus Portiera
+N7518	f__Saccharospirillaceae
+N7520	g__Marinomonas
+N7522	s__Idiomarina abyssalis
+N7526	g__Glaciecola
+N7528	s__Colwellia psychrerythraea
+N7530	f__Chromatiaceae_2; g__Rheinheimera
+N7533	s__Pseudoalteromonas ruthenica
+N7537	g__Agarivorans
+N7538	f__Moritellaceae; g__Moritella
+N7539	f__Psychromonadaceae; g__Psychromonas
+N7540	g__Aeromonas
+N7542	g__Photobacterium
+N7566	s__Crocosphaera watsonii
+N7604	s__Rhodococcus fascians
+N7606	g__Nocardia
+N7634	s__Varibaculum cambriense
+N7643	s__Ruminococcus flavefaciens
+N7658	s__Paenibacillus durus
+N7662	s__Paenibacillus polymyxa
+N7669	s__Parageobacillus caldoxylosilyticus
+N7676	g__Bacillus_3
+N7677	g__Domibacillus
+N7679	g__Bacillus_4; s__Bacillus coahuilensis
+N7680	g__Rossellomorea
+N7689	s__Streptococcus mutans
+N7690	s__Streptococcus thermophilus
+N7691	s__Streptococcus sobrinus
+N7696	s__Lacticaseibacillus nasuensis
+N7697	s__Lacticaseibacillus rhamnosus
+N7706	s__Weissella confusa
+N7708	s__Fructobacillus pseudoficulneus
+N7709	s__Fructobacillus fructosus
+N7711	s__Leuconostoc mesenteroides
+N7718	s__Lactiplantibacillus plantarum
+N7724	g__Apilactobacillus
+N7725	g__Fructilactobacillus
+N7741	g__Daejeonella
+N7742	g__Arcticibacter
+N7754	f__Microscillaceae
+N7763	g__Riemerella
+N7765	g__Tenacibaculum
+N7783	g__Sanguibacteroides
+N7784	g__Butyricimonas; s__Butyricimonas synergistica
+N7790	f__Prolixibacteraceae
+N7795	f__Tannerellaceae
+N7797	f__Barnesiellaceae
+N7799	f__Bacteroidaceae
+N7805	g__Syntrophus
+N7809	g__Desulfobacula
+N7812	g__Acetobacter
+N7813	s__Candidatus Endolissoclinum faulkneri
+N7818	s__Rhizorhabdus wittichii
+N7826	f__Sphingomonadaceae_5; g__Blastomonas
+N7830	g__Thioclava
+N7834	g__Jannaschia
+N7838	g__Oceanicaulis
+N7851	g__Achromobacter
+N7855	g__Herbaspirillum
+N7856	g__Burkholderia
+N7861	g__Limnohabitans
+N7890	s__Legionella jordanis
+N7894	s__Legionella pneumophila
+N7895	s__Acinetobacter pittii
+N7911	g__Marinospirillum
+N7920	s__Idiomarina loihiensis
+N7924	g__Alteromonas
+N7927	f__Alteromonadaceae_3; g__Alishewanella
+N7928	f__Chromatiaceae_4; g__Arsukibacterium
+N7940	g__Salinivibrio
+N7943	g__Aliivibrio
+N7945	g__Gallibacterium; s__Gallibacterium anatis
+N7949	o__Enterobacterales
+N7962	s__Crocosphaera subtropica
+N7977	s__Corynebacterium callunae
+N7982	s__Corynebacterium diphtheriae
+N7983	s__Corynebacterium pseudotuberculosis
+N8032	g__Schaalia
+N8033	s__Ruminococcus bicirculans
+N8039	s__Butyrivibrio hungatei
+N8042	s__Blautia obeum
+N8054	s__[Clostridium] innocuum
+N8055	s__Bacillus anthracis
+N8058	s__Priestia megaterium
+N8063	s__Weizmannia coagulans
+N8064	s__Bacillus badius
+N8068	g__Mesobacillus
+N8074	s__Streptococcus ratti
+N8085	s__Lactobacillus hominis
+N8086	s__Lactobacillus psittaci
+N8087	s__Lactobacillus jensenii
+N8105	s__Secundilactobacillus kimchicus
+N8117	g__Hydrotalea; s__Hydrotalea flava
+N8119	g__Flavihumibacter
+N8132	f__Fulvivirgaceae
+N8133	f__Roseivirgaceae
+N8134	f__Cyclobacteriaceae
+N8135	g__Cytophaga
+N8136	g__Hymenobacter
+N8138	g__Pontibacter
+N8147	g__Polaribacter
+N8151	g__Myroides
+N8152	g__Flavobacterium
+N8165	s__Sanguibacteroides justesenii
+N8171	s__Saccharicrinis fermentans
+N8174	g__Draconibacterium
+N8181	f__Dysgonomonadaceae
+N8182	g__Barnesiella
+N8188	f__Prevotellaceae_2
+N8189	f__Prevotellaceae_1
+N8194	g__Desulfobacter
+N8198	g__Gluconobacter
+N8199	g__Komagataeibacter
+N8203	g__Skermanella
+N8204	g__Azospirillum
+N8216	f__Sphingomonadaceae_2; g__Novosphingobium
+N8217	f__Erythrobacteraceae
+N8225	g__Palleronia
+N8237	g__Devosia
+N8257	g__Stenotrophomonas
+N8260	g__Methylomicrobium
+N8272	s__Fluoribacter dumoffii
+N8280	f__Porticoccaceae
+N8281	g__Simiduia; s__Simiduia agarivorans
+N8290	g__Halomonas
+N8297	s__Paraglaciecola psychrophila
+N8300	s__Glaciecola punicea
+N8320	g__Grimontia
+N8321	g__Enterovibrio
+N8322	s__Salinivibrio socompensis
+N8331	g__Avibacterium
+N8333	o__Orbales; f__Orbaceae; g__Gilliamella
+N8334	f__Budviciaceae; g__Pragia
+N8374	s__Cutibacterium acnes
+N8390	s__Leucobacter chromiiresistens
+N8396	g__Curtobacterium
+N8421	s__Bacillus pumilus
+N8423	s__Bacillus subtilis
+N8427	s__Bacillus enclensis
+N8452	s__Limosilactobacillus ingluviei
+N8460	s__Fructilactobacillus florum
+N8472	g__Flavisolibacter
+N8474	g__Niabella
+N8482	s__Pedobacter antarcticus
+N8485	f__Cesiribacteraceae
+N8493	g__Rufibacter
+N8506	s__Capnocytophaga haemolytica
+N8511	g__Zhouia
+N8521	s__Anaerophaga thermohalophila
+N8522	s__Draconibacterium orientale
+N8528	g__Parabacteroides
+N8533	g__Phocaeicola
+N8534	g__Bacteroides
+N8535	g__Paraprevotella
+N8538	g__Prevotella
+N8559	s__Sphingobium herbicidovorans
+N8564	s__Novosphingobium barchaimii
+N8566	g__Cereibacter
+N8582	f__Kaistiaceae
+N8584	s__Herbaspirillum chlorophenolicum
+N8588	g__Caballeronia
+N8589	g__Paraburkholderia
+N8597	g__Comamonas
+N8599	g__Dyella
+N8600	g__Rhodanobacter
+N8623	s__Acinetobacter venetianus
+N8629	g__Cellvibrio
+N8632	g__Teredinibacter
+N8636	s__Candidatus Portiera aleyrodidarum
+N8638	g__Chromohalobacter
+N8650	s__Glaciecola pallidula
+N8657	s__Shewanella baltica
+N8672	g__Bibersteinia; s__Bibersteinia trehalosi
+N8673	g__Glaesserella
+N8679	f__Morganellaceae
+N8692	s__Corynebacterium pseudodiphtheriticum
+N8722	g__Pseudarthrobacter
+N8744	s__Bacillus altitudinis
+N8750	g__Cytobacillus
+N8763	s__Lactobacillus gigeriorum
+N8764	s__Lactobacillus pasteurii
+N8774	s__Limosilactobacillus antri
+N8776	s__Limosilactobacillus fermentum
+N8778	s__Secundilactobacillus similis
+N8781	s__Lentilactobacillus parafarraginis
+N8783	s__Fructilactobacillus lindneri
+N8794	g__Sediminibacterium
+N8797	g__Niastella
+N8808	s__Pedobacter heparinus
+N8810	g__Roseivirga
+N8818	s__Pontibacter akesuensis
+N8819	g__Runella
+N8825	s__Myroides odoratus
+N8834	g__Kordia
+N8836	g__Nonlabens
+N8843	g__Dysgonomonas
+N8853	g__Asaia
+N8855	s__Gluconobacter oxydans
+N8868	s__Cereibacter sphaeroides
+N8871	g__Actibacterium
+N8874	f__Methylocystaceae_1
+N8875	f__Beijerinckiaceae
+N8876	f__Boseaceae; g__Bosea
+N8878	f__Xanthobacteraceae
+N8881	g__Kaistia
+N8887	g__Rhodoferax
+N8888	g__Polaromonas
+N8889	g__Ramlibacter
+N8890	g__Pseudorhodoferax
+N8922	g__Marinimicrobium
+N8923	g__Gilvimarinus
+N8925	s__Teredinibacter turnerae
+N8927	s__Pseudomonas alcaligenes
+N8954	s__Glaesserella parasuis
+N8957	g__Aggregatibacter
+N8958	g__Haemophilus
+N8959	s__Gilliamella apicola
+N8960	s__Pragia fontium
+N8986	s__Streptomyces sp. WMMB 714
+N8988	s__Streptomyces lydicus
+N9005	g__Rathayibacter
+N9015	s__Bacillus velezensis
+N9016	s__Bacillus amyloliquefaciens
+N9020	g__Neobacillus
+N9031	s__Lactobacillus acetotolerans
+N9044	s__Secundilactobacillus odoratitofui
+N9059	s__Pedobacter steynii
+N9062	g__Echinicola
+N9063	g__Cyclobacterium
+N9064	g__Rhodonellum
+N9065	g__Algoriphagus
+N9069	g__Dyadobacter
+N9074	s__Capnocytophaga granulosa
+N9108	g__Alloprevotella
+N9127	g__Croceibacterium
+N9129	g__Pseudorhodobacter
+N9130	g__Rhodobacter
+N9134	g__Methylosinus
+N9135	g__Methylocystis
+N9142	f__Bradyrhizobiaceae
+N9155	g__Variovorax
+N9156	g__Verminephrobacter
+N9165	g__Xylella
+N9166	g__Xanthomonas
+N9177	s__Acinetobacter bohemicus
+N9190	s__Pseudomonas stutzeri
+N9198	g__Marinobacterium
+N9199	g__Nitrincola
+N9203	s__Pseudoalteromonas luteoviolacea
+N9214	s__Avibacterium paragallinarum
+N9215	g__Basfia
+N9216	s__Haemophilus parainfluenzae
+N9219	g__Xenorhabdus
+N9246	s__Streptomyces clavuligerus
+N9255	s__Pseudarthrobacter phenanthrenivorans
+N9257	s__Microbacterium hydrocarbonoxydans
+N9262	g__Leifsonia
+N9283	s__Lactobacillus apis
+N9309	g__Spirosoma
+N9310	g__Kaistella
+N9311	g__Epilithonimonas
+N9312	g__Chryseobacterium
+N9314	s__Myroides profundi
+N9315	s__Myroides odoratimimus
+N9316	s__Flavobacterium akiainvivens
+N9323	s__Zhouia amylolytica
+N9325	g__Robiginitalea
+N9333	g__Aquimarina
+N9354	g__Aurantiacibacter
+N9364	g__Beijerinckia
+N9367	f__Methylobacteriaceae
+N9369	g__Azorhizobium
+N9370	g__Xanthobacter
+N9375	f__Pleomorphomonadaceae
+N9377	f__Aurantimonadaceae_1
+N9394	s__Acinetobacter indicus
+N9420	s__Alteromonas mediterranea
+N9421	s__Alteromonas macleodii
+N9432	s__Haemophilus influenzae
+N9436	g__Proteus
+N9437	g__Morganella
+N9438	g__Arsenophonus
+N9440	f__Bruguierivoracaceae
+N9442	f__Hafniaceae
+N9445	s__Corynebacterium aurimucosum
+N9456	s__Streptomyces avermitilis
+N9467	g__Agromyces
+N9468	s__Butyrivibrio proteoclasticus
+N9489	s__Roseivirga seohaensis
+N9491	s__Rhodonellum psychrophilum
+N9505	s__Flavobacterium rivuli
+N9506	s__Flavobacterium subsaxonicum
+N9512	g__Muricauda
+N9514	g__Mangrovimonas
+N9520	g__Aequorivita
+N9526	g__Proteiniphilum
+N9547	g__Halocynthiibacter
+N9551	g__Methylocapsa
+N9556	g__Afipia
+N9560	g__Pleomorphomonas
+N9561	f__Stappiaceae
+N9562	g__Aurantimonas
+N9563	g__Aureimonas
+N9564	f__Ahrensiaceae; g__Ahrensia
+N9594	s__Pseudomonas putida
+N9596	s__Halomonas sp. HL-93
+N9601	g__Amphritea
+N9603	g__Neptunomonas
+N9610	g__Vibrio
+N9620	s__Morganella psychrotolerans
+N9622	g__Providencia
+N9623	g__Sodalis
+N9628	f__Yersiniaceae
+N9646	s__Microbacterium testaceum
+N9653	s__Streptococcus pyogenes
+N9655	s__Lacticaseibacillus casei
+N9658	s__Lactobacillus acidophilus
+N9666	s__Algoriphagus marincola
+N9682	g__Winogradskyella
+N9686	s__Nonlabens ulvanivorans
+N9688	g__Dokdonia; s__Dokdonia donghaensis
+N9719	g__Microvirga
+N9720	g__Methylobacterium
+N9721	g__Methylorubrum
+N9724	g__Rhodopseudomonas
+N9759	g__Neptuniibacter
+N9760	s__Neptunomonas phycophila
+N9765	g__Candidatus Photodesmus
+N9777	f__; g__
+N9781	f__Pectobacteriaceae
+N9809	s__Chryseobacterium formosense
+N9821	g__Cellulophaga
+N9824	g__Maribacter
+N9828	g__Formosa
+N9831	g__Leeuwenhoekiella
+N9833	g__Salinimicrobium
+N9835	s__Bacteroides fragilis
+N9838	s__Prevotella ruminicola
+N9846	g__Celeribacter
+N9856	s__Methylobacterium aquaticum
+N9860	s__Rhodopseudomonas palustris
+N9861	g__Nitrobacter
+N9862	g__Bradyrhizobium
+N9863	g__Pseudovibrio
+N9866	f__Phyllobacteriaceae_2; g__Hoeflea
+N9868	f__Phyllobacteriaceae_1
+N9888	s__Neptunomonas antarctica
+N9899	s__Candidatus Baumannia cicadellinicola
+N9902	g__Serratia
+N9906	f__Erwiniaceae_1
+N9907	f__Enterobacteriaceae_1
+N9931	s__Chryseobacterium indologenes
+N9939	g__Arenibacter
+N9942	g__Psychroserpens
+N9944	g__Lacinutrix
+N9946	g__Algibacter
+N9951	g__Gillisia
+N9961	g__Qipengyuania
+N9963	g__Porphyrobacter
+N9964	g__Erythrobacter
+N9965	g__Rubellimicrobium
+N9979	s__Pseudovibrio exalbescens
+N9982	g__Roseibium
+N9983	s__Aureimonas ureilytica
+N9985	f__Aurantimonadaceae_2; g__Martelella
+N9986	f__Rhizobiaceae
+N9990	f__Bartonellaceae
+N9995	s__Acinetobacter lwoffii
+N10006	f__Enterobacteriaceae_2; g__Candidatus Blochmannia
+N10012	g__Yersinia
+N10039	s__Muricauda antarctica
+N10049	g__Psychroflexus
+N10059	g__Citromicrobium
+N10063	g__Limimaricola
+N10071	s__Methylorubrum populi
+N10079	g__Liberibacter
+N10082	g__Nitratireductor
+N10085	f__Phyllobacteriaceae_3; g__Phyllobacterium
+N10087	g__Bartonella
+N10106	g__Erwinia
+N10138	g__Gramella
+N10139	s__Bacteroides thetaiotaomicron
+N10147	g__Octadecabacter
+N10156	s__Bradyrhizobium elkanii
+N10157	s__Bradyrhizobium lablabi
+N10165	g__Chelativorans
+N10169	f__Brucellaceae; g__Brucella
+N10175	s__Vibrio parahaemolyticus
+N10179	f__Erwiniaceae_2; g__Buchnera
+N10182	s__Yersinia pestis
+N10183	g__Dickeya
+N10186	g__
+N10187	g__Pantoea
+N10204	g__Zobellia
+N10205	s__Maribacter dokdonensis
+N10214	s__Octadecabacter temperatus
+N10215	g__Loktanella
+N10217	g__Pseudooceanicola
+N10220	g__Roseovarius
+N10228	s__Roseibium album
+N10231	g__Rhizobium
+N10234	s__Brucella anthropi
+N10235	s__Bartonella tamiae
+N10236	s__Bartonella apis
+N10241	s__Vibrio alginolyticus
+N10242	s__Vibrio sp. JCM 18905
+N10244	f__Enterobacteriaceae_3; g__Candidatus Riesia
+N10245	f__Erwiniaceae_3; g__Wigglesworthia; s__Wigglesworthia glossinidia
+N10246	s__Buchnera aphidicola
+N10247	s__Yersinia enterocolitica
+N10280	g__Thalassobius
+N10288	s__Candidatus Liberibacter solanacearum
+N10293	s__Rhizobium leguminosarum
+N10297	g__Mesorhizobium
+N10338	g__Shimia
+N10345	s__Candidatus Liberibacter asiaticus
+N10347	g__Ensifer
+N10348	g__Sinorhizobium
+N10349	s__Agrobacterium rhizogenes
+N10361	s__Bartonella clarridgeiae
+N10372	s__bacteria symbiont BFo2 of Frankliniella occidentalis
+N10377	g__Enterobacter
+N10411	g__Pseudorhizobium
+N10417	s__Bartonella bovis
+N10418	s__Bartonella bacilliformis
+N10431	s__Prevotella intermedia
+N10434	s__Prevotella bryantii
+N10436	g__Roseivivax
+N10451	s__Bartonella washoeensis
+N10459	g__Escherichia; s__Escherichia coli
+N10469	g__Sulfitobacter
+N10481	g__Pluralibacter
+N10483	g__Kluyvera
+N10484	g__Klebsiella
+N10485	g__Citrobacter
+N10492	g__Ruegeria
+N10499	s__Bartonella rattimassiliensis
+N10500	s__Bartonella tribocorum
+N10510	s__Sulfitobacter donghicola
+N10514	g__Tritonibacter
+N10515	g__Phaeobacter
+N10521	s__Bartonella henselae
+N10523	s__Bartonella vinsonii
+N10529	g__Salipiger
+N10534	g__Leisingera
