@@ -6,11 +6,11 @@ This directory contains information on **cell size**, **taxonomy**, and **genome
 * `taxid`	[NCBI taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi) identifier.
 * `lenght`	Values for cell length in $\mu m$
 * `width`	Values for cell width in $\mu m$
-* `volume`	Values for cell volume in $mu m$ calculated using the formula for a [capsule](https://en.wikipedia.org/wiki/Capsule_(geometry)). See also `preprocess` for further details.
-* `surface`	Values for cell surface in $mu m$ calculated using the formula for a [capsule](https://en.wikipedia.org/wiki/Capsule_(geometry)). See also `preprocess for further details.
+* `volume`	Values for cell volume in $\mu m$ calculated using the formula for a [capsule](https://en.wikipedia.org/wiki/Capsule_(geometry)). See also `preprocess` for further details.
+* `surface`	Values for cell surface in $\mu m$ calculated using the formula for a [capsule](https://en.wikipedia.org/wiki/Capsule_(geometry)). See also `preprocess for further details.
 * `svratio`	Values for cell surface-to-volume ratio in $\mu m$.
 * `vsratio`	Values for cell volume-to-surface ratio in $\mu m$.
-* `log_vsratio`	Values for cell volume-to-surface ratio log-transformed using log$_{10}$.
+* `log_vsratio`	Values for cell volume-to-surface ratio log-transformed using $\text{log}_{10}$.
 * `species`	Species name according to NCBI taxonomy.
 * `genus`	Genus name according to NCBI taxonomy.
 * `family`	Family name according to NCBI taxonomy.
