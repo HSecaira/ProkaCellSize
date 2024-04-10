@@ -4,13 +4,13 @@ This directory contains information on **cell size**, **taxonomy**, and **genome
 
 ## Columns description
 * `taxid`	[NCBI taxonomy](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi) identifier.
-* `sources`	Source name for the reported cell length, shape, and width.
+* `sources`	Source name for the reported cell length, shape, and width. bacdive: BacDive database, pcc: Pasteur Culture Collection, pubmed: PubMed articles, bm: Bergey's manual Volumes 1, 4, and 5.
 * `length_ranges`	Ranges of cell length reported in source. Units are $\mu m$.
 * `width_ranges`	Ranges of cell width reported in source. Units are $\mu m$.
 * `lenght`	Values for geometric mean cell length ranges. Units are $\mu m$.
 * `width`	Values for geometric mean cell width ranges. Units are $\mu m$.
 * `volume`	Values for cell volume in $\mu m$ calculated using the formula for a [capsule](https://en.wikipedia.org/wiki/Capsule_(geometry)). See also `preprocess` for further details.
-* `surface`	Values for cell surface in $\mu m$ calculated using the formula for a [capsule](https://en.wikipedia.org/wiki/Capsule_(geometry)). See also `preprocess for further details.
+* `surface`	Values for cell surface in $\mu m$ calculated using the formula for a [capsule](https://en.wikipedia.org/wiki/Capsule_(geometry)). See also `preprocess` for further details.
 * `spherical_equivalent_diameter`	Values for the diameter of a sphere with equivalent volume. Calculated as $d_V = \sqrt[3]{\frac{6V}{\pi}}$, where $V$ is the volume of the cell.
 * `svratio`	Values for cell surface-to-volume ratio in $\mu m$.
 * `vsratio`	Values for cell volume-to-surface ratio in $\mu m$.
